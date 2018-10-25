@@ -9,10 +9,10 @@ plugins:
    - jekyll-tagging-related_posts
 
 # Site settings
-title: An artist
-subtitle: Great artist
-name: An artist
-description: Demo Eye Gallery site
+title: Emma Fordham
+subtitle: "Hong Kong based Artist and Teacher of Art"
+name: Emma Fordham
+description:
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -149,36 +149,36 @@ social:
 
   - name: Facebook
     icon: icon-facebook_sign
-    username: 'eyedivision'
-    url: https://www.facebook.com/eyedivision
-    desc: Like us on Facebook
+    username: 'Emma Fordham'
+    url: https://www.facebook.com/Emma-Fordham-1406631179589690/
+    desc: Follow me on Facebook
     share: true
 
   - name: Instagram
     icon: icon-instagram
-    username: '@eyedivision'
-    url: https://instagram.com/eyedivision
-    desc: Follow us on Instagram
+    username: '@emma.s.e.fordham'
+    url: https://instagram.com/emma.s.e.fordham/
+    desc: Follow me on Instagram
     share: false
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: '@EyeDivision'
-    url: https://twitter.com/EyeDivision
+    username:
+    url:
     desc: Follow us on Twitter
     share: true
 
   - name: Pinterest
     icon: icon-pinterest
-    username: 'eyediv'
-    url: https://www.pinterest.co.uk/eyediv/
+    username:
+    url:
     desc: Follow us on Pinterest
     share: true
 
   - name: linkedin
     icon: icon-linkedin_sign
-    username: 'eye-division-ltd'
-    url: https://www.linkedin.com/company/eye-division-ltd/
+    username:
+    url:
     desc: Connect with us on LinkedIn
     share: true
 
