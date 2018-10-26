@@ -18,15 +18,14 @@ description:
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "https://black-hare.cloudvent.net"
-# apt-loris.cloudvent.net for Jekyll3
+url: "https://www.emmafordham.com"
 
 logo: "/assets/logo.png"
 show_logo: false
 email: a.ward@eyedivision.com
 
-default_post_image: "/assets/images/road_closed.jpg"
-default_gallery_image: "/assets/images/road_closed.jpg"
+default_post_image: "/assets/images/default_post_image.jpg"
+default_gallery_image: "/assets/images/default_gallery_image.jpg"
 
 show_social_top: true
 
@@ -39,8 +38,8 @@ highlightjs_theme: "monokai-sublime"
 
 # Image CDN
 imagecdn:
-  staging: "https://ed-eyegallery-dev.imgix.net" # apt-loris.cloudvent.net
-  production: "https://ed-eyegallery.imgix.net"
+  staging: "https://ed-emmafordham-dev.imgix.net" # apt-loris.cloudvent.net
+  production: "https://ed-emmafordham.imgix.net"
 
 # Collections Example
 collections:
@@ -122,10 +121,10 @@ _options:
 disqus_shortname: alun-ward
 
 # Google analytics
-# ga_tracking_id: ""
+ga_tracking_id: "UA-50507284-1"
 
 # Google Recaptcha used for contact form - used by seo-tag
-recaptcha_site_key: "6LcNYBQUAAAAAALGOjCFo1CKxb65aFTFelMJo1YF"
+recaptcha_site_key: "6LdopSsUAAAAAPBBW5D-3bRRU3_xxXOvGed1dZeG"
 
 # Google Site verification if required
 # google_site_verification: ""
