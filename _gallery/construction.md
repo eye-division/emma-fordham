@@ -25,8 +25,8 @@ images:
   - image_path: /assets/images/52e5c4daae8c6.jpg
     image_title: Nocturne by Emma Fordham
     image_description_markdown: >-
-      **Nocturne**   200 cm x 200 cm   2013   Acrylic paint, paper cut out and
-      spray paint on canvas
+      **Nocturne** 200 cm x 200 cm 2013 Acrylic paint, paper cut out and spray
+      paint on canvas
   - image_path: /assets/images/50bae496482e2.jpg
     image_title: Site I by Emma Fordham
     image_description_markdown: >-
@@ -95,6 +95,9 @@ images:
     image_description_markdown: >-
       **Construction II**   120 cm x 90 cm   2010   Acrylic paint, pencil,
       charcoal and spray paint on canvas
+  - image_path: /uploads/26643129558-40c11dc5da-o.jpg
+    image_title: River Dee in winter by Alun
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
