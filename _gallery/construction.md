@@ -1,9 +1,6 @@
 ---
 title: Construction
-description_markdown: >-
-  At night these construction sites look almost beautiful when everything is
-  floodlit and silhouetted. In my canvases I have tried to capture this
-  artificial light and the fragile shapes of the tall and gangly cranes.
+description_markdown:
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
@@ -63,6 +60,15 @@ images:
     image_description_markdown: >-
       *Crane VI*, 2013, Acrylic paint, paper cut out and spray paint on canvas,
       16 cm x 21 cm
+  - image_path: /assets/images/52e5cdb6da2ab.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /assets/images/566cdecb4cb86.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /assets/images/566ce060a9495.jpg
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
