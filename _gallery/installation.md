@@ -13,8 +13,10 @@ main_image_caption: 'South Horizon, Chinese Screen by Emma Fordham'
 thumb_crop: false
 images:
   - image_path: /assets/images/566ce4014e2c6.jpg
-    image_title: "South Horizon,\_2015, Etched Drawing on Perspex, mounted in traditional\_Chinese wooden frames"
-    image_description_markdown:
+    image_title:
+    image_description_markdown: >-
+      *South Horizon*, 2015, Etched Drawing on Perspex, mounted in traditional
+      Chinese wooden frames
   - image_path: /assets/images/566ce47061dd9.jpg
     image_title: Studio Shot
     image_description_markdown:
