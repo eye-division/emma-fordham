@@ -23,14 +23,14 @@ images:
     image_title: Quarry II 152 cm x 122 cm 2016
     image_description_markdown:
   - image_path: /assets/images/592a3d2a971cc.jpg
-    image_title: Quarry III by Emma Fordham
-    image_description_markdown: '**Quarry III**  100 cm x 80 cm   2016   Oil on canvas'
+    image_title: Quarry III 100 cm x 80 cm 2016 Oil on canvas
+    image_description_markdown:
   - image_path: /assets/images/592a379d5f7f4.jpg
-    image_title: Baroque I by Emma Fordham
-    image_description_markdown: '**Baroque I**  152cm x 122 cm   2016   Oil on canvas'
+    image_title: Baroque I 152 cm x 122 cm 2016 Oil on canvas
+    image_description_markdown:
   - image_path: /assets/images/592a3b7c1889a.jpg
-    image_title: Baroque II by Emma Fordham
-    image_description_markdown: '**Baroque II**   152 cm x 122 cm   2016   Oil on canvas'
+    image_title: Baroque II 152 cm x 122 cm 2016 Oil on canvas
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
