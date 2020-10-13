@@ -28,17 +28,18 @@ images:
       frame, LED lights, textiles, acrylic paint, pencil, screen printing,
       embroidery. Frame size 243 cm x 145 cm
   - image_path: /assets/images/52e5cee1f0632.jpg
-    image_title: Bright Lights Big City (with Wang Xiaoben) by Emma Fordham
+    image_title: >-
+      Bright Lights Big City Installation containing 88 hand made lanterns.(with
+      Wang Xiaoben)
     image_description_markdown: >-
-      **Bright Lights Big City (with Wang Xiaoben)**   Each lantern measures 15
-      cm x 15 cm x 15 cm   2011   Steel frame, LED lights, textiles, acrylic
-      paint, pencil, screen printing, embroidery. Detail from Bright Lights Big
-      City. Installation containing 88 hand made lanterns.
+      **Bright Lights Big City (with Wang Xiaoben)** Each lantern measures 15 cm
+      x 15 cm x 15 cm 2011 Steel frame, LED lights, textiles, acrylic paint,
+      pencil, screen printing, embroidery. Detail from Bright Lights Big City.
   - image_path: /assets/images/5583a89410576.jpg
-    image_title: Untitled by Emma Fordham
+    image_title: Untitled
     image_description_markdown:
   - image_path: /assets/images/5583a8cf2caf1.jpg
-    image_title: Untitled by Emma Fordham
+    image_title: Untitled
     image_description_markdown:
 _options:
   image_path:
