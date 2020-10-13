@@ -24,22 +24,24 @@ images:
     image_title:
     image_description_markdown:
   - image_path: /assets/images/524a35e8cffd3.jpg
-    image_title: Bright Lights Big City (with Wang Xiaoben)
+    image_title:
     image_description_markdown: >-
-      ***Bright Lights Big City* (Emma Fordham and Wang Xiaoben),** 2011, Steel
-      frame, LED lights, textiles, acrylic paint, pencil, screen printing,
+      ***Bright Lights, Big City,&nbsp;***88 rotating textile
+      lanterns,&nbsp;**(Emma Fordham and Wang Xiaoben),** 2011, Steel frame, LED
+      lights, canvas, acrylic paint, pencil, screen printing, beading,
       embroidery. Frame size 243 cm x 145 cm
   - image_path: /assets/images/52e5cee1f0632.jpg
-    image_title: '88 hand made lanterns, (with Wang Xiaoben)'
+    image_title:
     image_description_markdown: >-
-      **Bright Lights Big City (with Wang Xiaoben)** Each lantern measures 15 cm
-      x 15 cm x 15 cm 2011 Steel frame, LED lights, textiles, acrylic paint,
-      pencil, screen printing, embroidery. Detail from Bright Lights Big City.
+      **Bright Lights Big City,***detail,* **(with Wang Xiaoben),** 2011, Each
+      lantern measures 15 cm x 15 cm x 15 cm, Steel frame, LED lights, textiles,
+      acrylic paint, pencil, screen printing, embroidery. Detail from Bright
+      Lights Big City.
   - image_path: /assets/images/5583a89410576.jpg
-    image_title: Etched drawing on Perspex. Mo Tat school
+    image_title:
     image_description_markdown: Etched drawing on Perspex. Mo Tat school
   - image_path: /assets/images/5583a8cf2caf1.jpg
-    image_title: Untitled
+    image_title:
     image_description_markdown:
 _options:
   image_path:
