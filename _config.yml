@@ -148,8 +148,8 @@ social:
 
   - name: Facebook
     icon: icon-facebook_sign
-    username: 'Emma Fordham'
-    url: https://www.facebook.com/Emma-Fordham-1406631179589690/
+    username:
+    url:
     desc: Follow me on Facebook
     share: true
 
