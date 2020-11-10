@@ -14,13 +14,13 @@ thumb_crop: false
 images:
   - image_path: /assets/images/592a3dc40490e.jpg
     image_title:
-    image_description_markdown: '*Quarry I,* 2016, Acrylic and oil on canvas, 100 x 80 cm'
+    image_description_markdown: '*Quarry I,* 2016, Acrylic and oil on canvas, 100 cm x 80 cm'
   - image_path: /assets/images/592a3d88f14ca.jpg
     image_title:
-    image_description_markdown: '*Quarry II,* 2016, Acrylic&nbsp;and oil on canvas, 100 x 80 cm'
+    image_description_markdown: '*Quarry II,* 2016, Acrylic and oil on canvas, 100 cm x 80 cm'
   - image_path: /assets/images/592a3d2a971cc.jpg
     image_title:
-    image_description_markdown: '*Quarry III*, 2016, oil and acrylic on canvas, 100 x 80 cm&nbsp;'
+    image_description_markdown: '*Quarry III*, 2016, oil and acrylic on canvas, 100 cm x 80 cm&nbsp;'
   - image_path: /assets/images/524136878cee5.jpg
     image_title:
     image_description_markdown: '*Site III*, 2013, Acrylic paint and spray paint on canvas, 50 cm x 50 cm'
