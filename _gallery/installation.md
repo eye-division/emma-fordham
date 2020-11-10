@@ -8,41 +8,41 @@ permalink: /gallery/installation/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /assets/images/566ce4014e2c6.jpg
-main_image_caption: 'South Horizon, Chinese Screen by Emma Fordham'
+main_image_path: /uploads/img-1049.jpg
+main_image_caption:
 thumb_crop: false
 images:
-  - image_path: /assets/images/566ce4014e2c6.jpg
-    image_title:
-    image_description_markdown: >-
-      *South Horizon*, 2015, Etched Drawing on Perspex, mounted in traditional
-      Chinese wooden frames
-  - image_path: /assets/images/566ce47061dd9.jpg
-    image_title:
-    image_description_markdown: South Horizons
-  - image_path: /assets/images/55e8064669b22.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /assets/images/524a35e8cffd3.jpg
-    image_title:
-    image_description_markdown: >-
-      ***Bright Lights, Big City,&nbsp;***88 rotating textile
-      lanterns,&nbsp;**(Emma Fordham and Wang Xiaoben),** 2011, Steel frame, LED
-      lights, canvas, acrylic paint, pencil, screen printing, beading,
-      embroidery. Frame size 243 cm x 145 cm
-  - image_path: /assets/images/52e5cee1f0632.jpg
-    image_title:
-    image_description_markdown: >-
-      **Bright Lights Big City,***detail,* **(with Wang Xiaoben),** 2011, Each
-      lantern measures 15 cm x 15 cm x 15 cm, Steel frame, LED lights, textiles,
-      acrylic paint, pencil, screen printing, embroidery. Detail from Bright
-      Lights Big City.
   - image_path: /assets/images/5583a89410576.jpg
     image_title:
-    image_description_markdown: Etched drawing on Perspex. Mo Tat school
+    image_description_markdown: >-
+      Etched drawing on Perspex. Installation at abandoned Mo Tat Old school,
+      2015
   - image_path: /assets/images/5583a8cf2caf1.jpg
     image_title:
     image_description_markdown:
+  - image_path: /assets/images/566ce4014e2c6.jpg
+    image_title:
+    image_description_markdown: >-
+      *South Horizons,* etched drawing on perspex, mounted in traditional
+      Chinese wooden frames, encased LED lighting, 2016
+  - image_path: /assets/images/566ce47061dd9.jpg
+    image_title:
+    image_description_markdown: '*South Horizons, installation shot, 2016*'
+  - image_path: /assets/images/55e8064669b22.jpg
+    image_title:
+    image_description_markdown: '*South Horizons*, installation shot, 2016'
+  - image_path: /assets/images/524a35e8cffd3.jpg
+    image_title:
+    image_description_markdown: >-
+      *Bright Lights, (collaboration with Wang Xiaoben) Big City,&nbsp;*88
+      rotating textile lanterns, steel frame, LED lights, canvas, acrylic paint,
+      pencil, screen printing, beading, embroidery. Frame size 243 cm x 145 cm,
+      individual lantern size 15 cm x 15 cm, 2011
+  - image_path: /assets/images/52e5cee1f0632.jpg
+    image_title:
+    image_description_markdown: >-
+      *Bright Lights Big City***,** (collaboration with Wang
+      Xiaoben)**&nbsp;***detail,* 2011
 _options:
   image_path:
     width: 1200

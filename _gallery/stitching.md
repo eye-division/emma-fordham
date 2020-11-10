@@ -1,34 +1,38 @@
 ---
-title: "Stitching & Embroidery"
-description_markdown: >-
-  
-homepage_description_markdown: >-
-   
+title: Stitching & Embroidery
+description_markdown:
+homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/stitching-and-embroidery/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /assets/images/55e7f90c3323c.jpg
-main_image_caption: "Cargo Artist Book by Emma Fordham"
-thumb_crop: true
+main_image_path: /uploads/newfinal-2.jpg
+main_image_caption:
+thumb_crop: false
 images:
-  - image_path: "/assets/images/55e7f90c3323c.jpg"
-    image_title: 
-    image_description_markdown: 
-      
+  - image_path: /uploads/newfinal 1.jpeg
+    image_title:
+    image_description_markdown: >-
+      Topography I, spraypaint, freehand embroidery and hand stitching on
+      reinforced calico, 56 cm x 48 cm, 2019
+  - image_path: /uploads/newfinal 2.jpg
+    image_title:
+    image_description_markdown: >-
+      Topography II, spraypaint, freehand embroidery and hand stitching on
+      reinforced calico, 56 cm x 40 cm, 2019
 _options:
   image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
     width: 1200
     height: 800
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
   title: Gallery title
   permalink: Be careful editing this
