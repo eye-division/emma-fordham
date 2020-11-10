@@ -8,10 +8,18 @@ permalink: /gallery/installation/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /assets/images/566ce4014e2c6.jpg
-main_image_caption: 'South Horizon, Chinese Screen by Emma Fordham'
+main_image_path: /uploads/img-1049.jpg
+main_image_caption:
 thumb_crop: false
 images:
+  - image_path: /assets/images/5583a89410576.jpg
+    image_title:
+    image_description_markdown: >-
+      Etched drawing on Perspex. Installation at abandoned Mo Tat Old school,
+      2015
+  - image_path: /assets/images/5583a8cf2caf1.jpg
+    image_title:
+    image_description_markdown:
   - image_path: /assets/images/566ce4014e2c6.jpg
     image_title:
     image_description_markdown: >-
@@ -35,14 +43,6 @@ images:
     image_description_markdown: >-
       *Bright Lights Big City***,** (collaboration with Wang
       Xiaoben)**&nbsp;***detail,* 2011
-  - image_path: /assets/images/5583a89410576.jpg
-    image_title:
-    image_description_markdown: >-
-      Etched drawing on Perspex. Installation at abandoned Mo Tat Old school,
-      2015
-  - image_path: /assets/images/5583a8cf2caf1.jpg
-    image_title:
-    image_description_markdown:
 _options:
   image_path:
     width: 1200
