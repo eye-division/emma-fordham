@@ -17,6 +17,11 @@ images:
     image_description_markdown: >-
       Topography I, spraypaint, freehand embroidery and hand stitching on
       reinforced calico, 56 cm x 48 cm, 2019
+  - image_path: /uploads/newfinal 2.jpg
+    image_title:
+    image_description_markdown: >-
+      Topography II, spraypaint, freehand embroidery and hand stitching on
+      reinforced calico, 56 cm x 40 cm, 2019
 _options:
   image_path:
     width: 1200
