@@ -8,7 +8,7 @@ permalink: /gallery/painting/
 display_title: true
 display_image: false
 archive: false
-main_image_path: /assets/images/592a3dc40490e.jpg
+main_image_path: /uploads/3.jpg
 main_image_caption:
 thumb_crop: false
 images:
