@@ -13,14 +13,14 @@ main_image_caption:
 thumb_crop: false
 images:
   - image_path: /assets/images/592a3dc40490e.jpg
-    image_title: Quarry I 152 cm x 122 cm 2016
-    image_description_markdown:
+    image_title:
+    image_description_markdown: Quarry I 152 cm x 122 cm 2016
   - image_path: /assets/images/592a3d88f14ca.jpg
-    image_title: Quarry II 152 cm x 122 cm 2016
-    image_description_markdown:
+    image_title:
+    image_description_markdown: Quarry II 152 cm x 122 cm 2016
   - image_path: /assets/images/592a3d2a971cc.jpg
-    image_title: Quarry III 100 cm x 80 cm 2016 Oil on canvas
-    image_description_markdown:
+    image_title:
+    image_description_markdown: Quarry III 100 cm x 80 cm 2016 Oil on canvas
   - image_path: /assets/images/524136878cee5.jpg
     image_title:
     image_description_markdown: '*Site III*, 2013, Acrylic paint and spray paint on canvas, 50 cm x 50 cm'
