@@ -12,9 +12,11 @@ main_image_path: /assets/images/55e7f90c3323c.jpg
 main_image_caption: Cargo Artist Book by Emma Fordham
 thumb_crop: true
 images:
-  - image_path:
+  - image_path: /uploads/newfinal 1.jpeg
     image_title:
-    image_description_markdown:
+    image_description_markdown: >-
+      Topography I, spraypaint, freehand embroidery and hand stitching on
+      reinforced calico, 56 cm x 48 cm, 2019
 _options:
   image_path:
     width: 1200
