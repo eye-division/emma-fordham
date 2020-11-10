@@ -93,16 +93,6 @@ images:
     image_description_markdown: >-
       **Hyundai** Acrylic and spray paint on old glass window,&nbsp;**Cosco** ,
       38 cm x 86 cm 2014
-  - image_path: /assets/images/592a5a7c73323.jpg
-    image_title: >-
-      Night site 100 m x 100cm, Acrylic, spray paint and paper stencils on
-      canvas, 2014
-    image_description_markdown:
-  - image_path: /assets/images/592a5acc47dd3.jpg
-    image_title: >-
-      Highrise Dawn 100 cm x 100cm, Acrylic, spray paint and paper stencils on
-      canvas, 2014
-    image_description_markdown:
 _options:
   image_path:
     width: 1200
