@@ -7,7 +7,7 @@ gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/stitching-and-embroidery/
 archive: false
 display_title: true
-display_image: false
+display_image: true
 main_image_path: /uploads/newfinal 1.jpeg
 main_image_caption: Cargo Artist Book by Emma Fordham
 thumb_crop: true
