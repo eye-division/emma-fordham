@@ -37,7 +37,9 @@ images:
       Xiaoben)**&nbsp;***detail,* 2011
   - image_path: /assets/images/5583a89410576.jpg
     image_title:
-    image_description_markdown: Etched drawing on Perspex. Mo Tat school
+    image_description_markdown: >-
+      Etched drawing on Perspex. Installation at abandoned Mo Tat Old school,
+      2015
   - image_path: /assets/images/5583a8cf2caf1.jpg
     image_title:
     image_description_markdown:
