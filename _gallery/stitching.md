@@ -1,9 +1,7 @@
 ---
-title: "Stitching & Embroidery"
-description_markdown: >-
-  
-homepage_description_markdown: >-
-   
+title: Stitching & Embroidery
+description_markdown:
+homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/stitching-and-embroidery/
@@ -11,24 +9,23 @@ archive: false
 display_title: true
 display_image: false
 main_image_path: /assets/images/55e7f90c3323c.jpg
-main_image_caption: "Cargo Artist Book by Emma Fordham"
+main_image_caption: Cargo Artist Book by Emma Fordham
 thumb_crop: true
 images:
-  - image_path: "/assets/images/55e7f90c3323c.jpg"
-    image_title: 
-    image_description_markdown: 
-      
+  - image_path:
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
     width: 1200
     height: 800
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
   title: Gallery title
   permalink: Be careful editing this
