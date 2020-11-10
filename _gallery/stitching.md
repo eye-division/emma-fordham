@@ -8,7 +8,7 @@ permalink: /gallery/stitching-and-embroidery/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /uploads/newfinal 1.jpeg
+main_image_path: /uploads/newfinal-2.jpg
 main_image_caption:
 thumb_crop: false
 images:
