@@ -155,7 +155,7 @@ social:
 
   - name: Instagram
     icon: icon-instagram
-    username: '@emma.s.e.fordham'
+    username: 'emma.s.e.fordham'
     url: https://instagram.com/emma.s.e.fordham/
     desc: Follow me on Instagram
     share: false

@@ -93,7 +93,7 @@ nav {
         color: $navigation-color;
         display: inline-block;
         @include grid-media ($small) {
-            padding-right: 1.5em;
+            padding-right: 1.2em;
         }
         &:hover {
             color: $navigation-color-hover;
