@@ -58,36 +58,35 @@ images:
     image_description_markdown: >-
       *Crane VI*, 2013, Acrylic paint, paper cut out and spray paint on canvas,
       16 cm x 21 cm
-  - image_path: /assets/images/52e5cdb6da2ab.jpg
-    image_title:
-    image_description_markdown:
   - image_path: /assets/images/566cdecb4cb86.jpg
-    image_title: >-
+    image_title:
+    image_description_markdown: >-
       Demolition I-Shanghai, Acrylic paint, spray paint and stencils on canvas,
       2015
-    image_description_markdown:
   - image_path: /assets/images/566ce060a9495.jpg
-    image_title: "Demolition II,\_Acrylic paint, spray paint and stencils on canvas, 2015"
-    image_description_markdown:
+    image_title:
+    image_description_markdown: 'Demolition II, Acrylic paint, spray paint and stencils on canvas, 2015'
   - image_path: /assets/images/592a5a7c73323.jpg
-    image_title: >-
+    image_title:
+    image_description_markdown: >-
       Night site 100 m x 100cm, Acrylic, spray paint and paper stencils on
       canvas, 2014
-    image_description_markdown:
   - image_path: /assets/images/592a5acc47dd3.jpg
-    image_title: >-
+    image_title:
+    image_description_markdown: >-
       Highrise Dawn 100 cm x 100cm, Acrylic, spray paint and paper stencils on
       canvas, 2014
-    image_description_markdown:
   - image_path: /assets/images/558397571cd13.jpg
     image_title:
     image_description_markdown:
   - image_path: /assets/images/558393297e685.jpg
-    image_title: 'Transit II 190 cm x 90 cm 2014 Oil, spray paint, acrylic on board'
-    image_description_markdown:
+    image_title: x
+    image_description_markdown: >-
+      Highrise Dawn 100 cm x 100cm, Acrylic, spray paint and paper stencils on
+      canvas, 2014
   - image_path: /assets/images/5583954ac0aa3.jpg
-    image_title: "Cosco , Acrylics and spray paint on old glass window,\_38 cm x 86 cm 2014"
-    image_description_markdown:
+    image_title:
+    image_description_markdown: 'Cosco , Acrylics and spray paint on old glass window, 38 cm x 86 cm 2014'
   - image_path: /assets/images/5583957249094.jpg
     image_title:
     image_description_markdown: >-
