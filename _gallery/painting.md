@@ -14,13 +14,13 @@ thumb_crop: false
 images:
   - image_path: /assets/images/592a3dc40490e.jpg
     image_title:
-    image_description_markdown: Quarry I 152 cm x 122 cm 2016
+    image_description_markdown: '*Quarry I,* 2016, Acrylic and oil on canvas, 100 x 80 cm'
   - image_path: /assets/images/592a3d88f14ca.jpg
     image_title:
-    image_description_markdown: Quarry II 152 cm x 122 cm 2016
+    image_description_markdown: '*Quarry II,* 2016, Acrylic&nbsp;and oil on canvas, 100 x 80 cm'
   - image_path: /assets/images/592a3d2a971cc.jpg
     image_title:
-    image_description_markdown: Quarry III 100 cm x 80 cm 2016 Oil on canvas
+    image_description_markdown: '*Quarry III*, 2016, oil and acrylic on canvas, 100 x 80 cm&nbsp;'
   - image_path: /assets/images/524136878cee5.jpg
     image_title:
     image_description_markdown: '*Site III*, 2013, Acrylic paint and spray paint on canvas, 50 cm x 50 cm'
@@ -51,8 +51,8 @@ images:
   - image_path: /assets/images/50bae421a8138.jpg
     image_title:
     image_description_markdown: >-
-      *Crane V*, 2013, Acrylic paint, paper cut out and spray paint on canvas,16
-      cm x 21 cm
+      *Crane V*, 2013, Acrylic paint, paper cut out and spray paint on canvas,
+      16 cm x 21 cm
   - image_path: /assets/images/524124fc0b8ee.jpg
     image_title:
     image_description_markdown: >-
@@ -61,37 +61,39 @@ images:
   - image_path: /assets/images/566cdecb4cb86.jpg
     image_title:
     image_description_markdown: >-
-      Demolition I-Shanghai, Acrylic paint, spray paint and stencils on canvas,
-      2015
+      *Demolition I*, 2015, acrylic paint, spray paint and stencils on
+      canvas,&nbsp;
   - image_path: /assets/images/566ce060a9495.jpg
     image_title:
-    image_description_markdown: 'Demolition II, Acrylic paint, spray paint and stencils on canvas, 2015'
+    image_description_markdown: >-
+      *Demolition II*, 2015, acrylic paint, spray paint and stencils on
+      canvas,&nbsp;
   - image_path: /assets/images/592a5a7c73323.jpg
     image_title:
     image_description_markdown: >-
-      Night site 100 m x 100cm, Acrylic, spray paint and paper stencils on
-      canvas, 2014
+      Night site, 2014, acrylic, spray paint and paper stencils on canvas, 100
+      cm x 100 cm
   - image_path: /assets/images/592a5acc47dd3.jpg
     image_title:
     image_description_markdown: >-
-      Highrise Dawn 100 cm x 100cm, Acrylic, spray paint and paper stencils on
-      canvas, 2014
+      *Highrise Dawn*, 2014, acrylic, spray paint and paper stencils on canvas,
+      100 cm x 100 cm
   - image_path: /assets/images/558397571cd13.jpg
     image_title:
     image_description_markdown:
   - image_path: /assets/images/558393297e685.jpg
     image_title:
-    image_description_markdown: >-
-      Highrise Dawn 100 cm x 100cm, Acrylic, spray paint and paper stencils on
-      canvas, 2014
+    image_description_markdown:
   - image_path: /assets/images/5583954ac0aa3.jpg
     image_title:
-    image_description_markdown: 'Cosco , Acrylics and spray paint on old glass window, 38 cm x 86 cm 2014'
+    image_description_markdown: >-
+      *Cosco*, 2014, acrylics and spray paint on old glass window pane, 38 cm x
+      86 cm&nbsp;
   - image_path: /assets/images/5583957249094.jpg
     image_title:
     image_description_markdown: >-
-      **Hyundai** Acrylic and spray paint on old glass window,&nbsp;**Cosco** ,
-      38 cm x 86 cm 2014
+      *Hyundai,* 2014, acrylic and spray paint on old glass window pane, 38 cm x
+      86 cm&nbsp;
 _options:
   image_path:
     width: 1200
