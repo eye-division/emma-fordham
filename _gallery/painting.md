@@ -1,10 +1,6 @@
 ---
 title: Painting
-description_markdown: >-
-  Tracing the topography lines of areas in Hong Kong where land has been
-  earmarked for major development. Although the plans are not yet realized they
-  exists and loom over the landscape like a ghostly vision. Floor plans and high
-  rise residential buildings are thinly layered over the landscape.&nbsp;&nbsp;
+description_markdown:
 homepage_description_markdown:
 gallery_date: 2018-05-01 00:00:00
 frontpage: true
@@ -25,23 +21,6 @@ images:
   - image_path: /assets/images/592a3d2a971cc.jpg
     image_title: Quarry III 100 cm x 80 cm 2016 Oil on canvas
     image_description_markdown:
-  - image_path: /assets/images/592a379d5f7f4.jpg
-    image_title: Baroque I 152 cm x 122 cm 2016 Oil on canvas
-    image_description_markdown:
-  - image_path: /assets/images/592a3b7c1889a.jpg
-    image_title: Baroque II 152 cm x 122 cm 2016 Oil on canvas
-    image_description_markdown:
-  - image_path: /assets/images/52e5c4daae8c6.jpg
-    image_title:
-    image_description_markdown: >-
-      *Nocturne, 2013, Acrylic paint, paper cut out and spray paint on canvas,
-      200 cm x 200 cm*
-  - image_path: /assets/images/50bae496482e2.jpg
-    image_title:
-    image_description_markdown: '***Site I, ,***2013 Acrylic paint and spray paint on canvas, 50 cm x 50 cm'
-  - image_path: /assets/images/50bae4c41d1c6.jpg
-    image_title:
-    image_description_markdown: '*Site II*, 2013, Acrylic paint and spray paint on canvas, 50 cm x 50 cm'
   - image_path: /assets/images/524136878cee5.jpg
     image_title:
     image_description_markdown: '*Site III*, 2013, Acrylic paint and spray paint on canvas, 50 cm x 50 cm'
@@ -83,12 +62,6 @@ images:
     image_title:
     image_description_markdown:
   - image_path: /assets/images/566cdecb4cb86.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /assets/images/566ce060a9495.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /assets/images/566cdecb4cb86.jpg
     image_title: >-
       Demolition I-Shanghai, Acrylic paint, spray paint and stencils on canvas,
       2015
@@ -120,14 +93,6 @@ images:
     image_description_markdown: >-
       **Hyundai** Acrylic and spray paint on old glass window,&nbsp;**Cosco** ,
       38 cm x 86 cm 2014
-  - image_path: /assets/images/566cdecb4cb86.jpg
-    image_title: >-
-      Demolition I-Shanghai, Acrylic paint, spray paint and stencils on canvas,
-      2015
-    image_description_markdown:
-  - image_path: /assets/images/566ce060a9495.jpg
-    image_title: "Demolition II,\_Acrylic paint, spray paint and stencils on canvas, 2015"
-    image_description_markdown:
   - image_path: /assets/images/592a5a7c73323.jpg
     image_title: >-
       Night site 100 m x 100cm, Acrylic, spray paint and paper stencils on
@@ -138,20 +103,6 @@ images:
       Highrise Dawn 100 cm x 100cm, Acrylic, spray paint and paper stencils on
       canvas, 2014
     image_description_markdown:
-  - image_path: /assets/images/558397571cd13.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /assets/images/558393297e685.jpg
-    image_title: 'Transit II 190 cm x 90 cm 2014 Oil, spray paint, acrylic on board'
-    image_description_markdown:
-  - image_path: /assets/images/5583954ac0aa3.jpg
-    image_title: "Cosco , Acrylics and spray paint on old glass window,\_38 cm x 86 cm 2014"
-    image_description_markdown:
-  - image_path: /assets/images/5583957249094.jpg
-    image_title:
-    image_description_markdown: >-
-      **Hyundai** Acrylic and spray paint on old glass window,&nbsp;**Cosco** ,
-      38 cm x 86 cm 2014
 _options:
   image_path:
     width: 1200
