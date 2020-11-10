@@ -80,7 +80,7 @@ images:
     image_title:
     image_description_markdown:
   - image_path: /assets/images/558393297e685.jpg
-    image_title: x
+    image_title:
     image_description_markdown: >-
       Highrise Dawn 100 cm x 100cm, Acrylic, spray paint and paper stencils on
       canvas, 2014
