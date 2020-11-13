@@ -22,6 +22,16 @@ images:
     image_description_markdown: >-
       Topography II, spraypaint, freehand embroidery and hand stitching on
       reinforced calico, 56 cm x 40 cm, 2019
+  - image_path: /uploads/img-20201015-134112.jpg
+    image_title: Mo Tat Wan (nocturne)
+    image_description_markdown: >-
+      *Mo Tat Wan (nocturne)*, painted bodaweb, freehand embroidery and
+      stitching on calico, 2020
+  - image_path: /uploads/img-20201015-134206.jpg
+    image_title: Mo Tat Wan II
+    image_description_markdown: >-
+      *Mo Tat Wan II*, painted bonda-web, freehand embroidery and hand
+      stitching, 2020
 _options:
   image_path:
     width: 1200
@@ -45,3 +55,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
