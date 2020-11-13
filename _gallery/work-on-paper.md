@@ -8,7 +8,7 @@ permalink: /gallery/works-on-paper/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /uploads/img-1094.jpg
+main_image_path: /uploads/img-1803.jpg
 main_image_caption:
 thumb_crop: false
 images:
