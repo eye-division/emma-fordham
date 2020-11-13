@@ -8,8 +8,8 @@ permalink: /gallery/works-on-paper/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /assets/images/50bad1fa2219c.jpg
-main_image_caption: Cargo Artist Book by Emma Fordham
+main_image_path: /uploads/img-1088.jpg
+main_image_caption:
 thumb_crop: true
 images:
   - image_path: /assets/images/55e7f90c3323c.jpg
