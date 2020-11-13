@@ -1,6 +1,16 @@
 ---
 title: Installation
-description_markdown:
+description_markdown: >-
+  As well as walls of high-rises, regional Hong Kong also has many abandoned
+  village houses. People uprooted and left when traditional ways of living
+  became obsolete and new opportunities arose in the city. Former village
+  houses, schools and communal buildings have sometimes been left to slowly
+  decay. A few years ago I installed some artworks in the now abandoned school
+  house in Mo Tat. I like the idea that the work has been exposed to the
+  elements and has started to degrade like the building itself.
+
+
+  &nbsp;
 homepage_description_markdown:
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
@@ -8,7 +18,7 @@ permalink: /gallery/installation/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /uploads/lantern.jpg
+main_image_path: /uploads/img-1055.jpg
 main_image_caption:
 thumb_crop: false
 images:
