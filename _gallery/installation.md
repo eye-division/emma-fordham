@@ -8,7 +8,7 @@ permalink: /gallery/installation/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /uploads/img-1049.jpg
+main_image_path: /uploads/lantern.jpg
 main_image_caption:
 thumb_crop: false
 images:
@@ -43,6 +43,21 @@ images:
     image_description_markdown: >-
       *Bright Lights Big City***,** (collaboration with Wang
       Xiaoben)**&nbsp;***detail,* 2011
+  - image_path: /uploads/left-room.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-1053.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-8176.JPG
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-1039.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-8180.JPG
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
@@ -66,3 +81,4 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
+
