@@ -13,25 +13,40 @@ main_image_caption:
 thumb_crop: false
 images:
   - image_path: /uploads/newfinal 1.jpeg
-    image_title:
+    image_title: Topography I
     image_description_markdown: >-
-      Topography I, spraypaint, freehand embroidery and hand stitching on
+      *Topography I*, spraypaint, freehand embroidery and hand stitching on
       reinforced calico, 56 cm x 48 cm, 2019
   - image_path: /uploads/newfinal 2.jpg
-    image_title:
+    image_title: Topography II
     image_description_markdown: >-
-      Topography II, spraypaint, freehand embroidery and hand stitching on
+      *Topography II*, spraypaint, freehand embroidery and hand stitching on
       reinforced calico, 56 cm x 40 cm, 2019
   - image_path: /uploads/img-20201015-134112.jpg
-    image_title: Mo Tat Wan (nocturne)
+    image_title: Mo Tat Wan I
     image_description_markdown: >-
-      *Mo Tat Wan (nocturne)*, painted bodaweb, freehand embroidery and
-      stitching on calico, 2020
+      *Mo Tat Wan I*, painted bodaweb, freehand embroidery and stitching on
+      calico, 2020
   - image_path: /uploads/img-20201015-134206.jpg
     image_title: Mo Tat Wan II
     image_description_markdown: >-
       *Mo Tat Wan II*, painted bonda-web, freehand embroidery and hand
       stitching, 2020
+  - image_path: /uploads/pb113055-2.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown:
+  - image_path: /uploads/pb113089-2.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown:
+  - image_path: /uploads/pb113103.JPG
+    image_title: Mount Stenhouse
+    image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/pb113066.JPG
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
