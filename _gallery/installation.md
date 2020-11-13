@@ -58,6 +58,12 @@ images:
   - image_path: /uploads/img-8180.JPG
     image_title:
     image_description_markdown:
+  - image_path: /uploads/img-4412.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-1971.jpg
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
