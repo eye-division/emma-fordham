@@ -49,9 +49,6 @@ images:
   - image_path: /assets/images/55e8064669b22.jpg
     image_title:
     image_description_markdown: '*South Horizons*, installation shot, 2016'
-  - image_path: /uploads/img-4412.jpg
-    image_title:
-    image_description_markdown:
   - image_path: /uploads/img-1971.jpg
     image_title:
     image_description_markdown:
