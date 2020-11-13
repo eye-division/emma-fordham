@@ -28,7 +28,7 @@ images:
       Etched drawing on Perspex. Installation at abandoned Mo Tat Old school,
       2015
   - image_path: /assets/images/5583a8cf2caf1.jpg
-    image_title: Mo tat School
+    image_title: Mo Tat School
     image_description_markdown: >-
       Hand cut paper stencils depicting rows of tower blocks have been layered
       onto the old blackboard.
