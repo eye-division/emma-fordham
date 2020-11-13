@@ -23,31 +23,43 @@ main_image_caption:
 thumb_crop: false
 images:
   - image_path: /assets/images/5583a89410576.jpg
-    image_title:
+    image_title: Mo Tat School
     image_description_markdown: >-
       Etched drawing on Perspex. Installation at abandoned Mo Tat Old school,
       2015
   - image_path: /assets/images/5583a8cf2caf1.jpg
-    image_title:
-    image_description_markdown:
+    image_title: Mo tat School
+    image_description_markdown: >-
+      Hand cut paper stencils depicting rows of tower blocks have been layered
+      onto the old blackboard.
   - image_path: /uploads/img-1053.jpg
-    image_title:
-    image_description_markdown:
+    image_title: Mo Tat School
+    image_description_markdown: >-
+      Hand cut paper stencils depicting rows of tower blocks have been layered
+      onto the old blackboard.
   - image_path: /uploads/img-1039.jpg
-    image_title:
-    image_description_markdown:
+    image_title: Mo Tat School
+    image_description_markdown: >-
+      Etched drawings of highrises have been installed in the rusting window
+      frames.
   - image_path: /uploads/img-8176.JPG
-    image_title:
-    image_description_markdown:
+    image_title: Mo Tat School
+    image_description_markdown: >-
+      Etched paintings on perspex depicting highrises have been installed in the
+      rusting window frames.
   - image_path: /uploads/img-8180.JPG
-    image_title:
-    image_description_markdown:
+    image_title: Mo Tat School
+    image_description_markdown: >-
+      Etched painting on perspex of highrises have been installed in the rusting
+      window frames.
   - image_path: /uploads/img-1035.jpg
-    image_title:
-    image_description_markdown:
+    image_title: Mo Tat School
+    image_description_markdown: >-
+      Etched drawings of highrises have been installed in the rusting window
+      frames.
   - image_path: /uploads/img-2951.jpg
-    image_title:
-    image_description_markdown:
+    image_title: Mo Tat School
+    image_description_markdown: Interior.
   - image_path: /assets/images/566ce4014e2c6.jpg
     image_title:
     image_description_markdown: >-
