@@ -61,34 +61,34 @@ images:
     image_title: Mo Tat School
     image_description_markdown: Interior.
   - image_path: /assets/images/566ce4014e2c6.jpg
-    image_title:
+    image_title: South Horizons
     image_description_markdown: >-
       *South Horizons,* etched drawing on perspex, mounted in traditional
       Chinese wooden frames, encased LED lighting, 2016
   - image_path: /assets/images/566ce47061dd9.jpg
-    image_title:
+    image_title: South Horizons
     image_description_markdown: '*South Horizons, installation shot, 2016*'
   - image_path: /assets/images/55e8064669b22.jpg
-    image_title:
+    image_title: South Horizons
     image_description_markdown: '*South Horizons*, installation shot, 2016'
   - image_path: /uploads/img-1971.jpg
-    image_title:
-    image_description_markdown:
+    image_title: South Horizons
+    image_description_markdown: '*South Horizons,* detail'
   - image_path: /assets/images/524a35e8cffd3.jpg
-    image_title:
+    image_title: Bright Lights Big City
     image_description_markdown: >-
-      *Bright Lights, (collaboration with Wang Xiaoben) Big City,&nbsp;*88
+      *Bright Lights Big City, (collaboration with Wang Xiaoben)&nbsp;*88
       rotating textile lanterns, steel frame, LED lights, canvas, acrylic paint,
       pencil, screen printing, beading, embroidery. Frame size 243 cm x 145 cm,
       individual lantern size 15 cm x 15 cm, 2011
   - image_path: /assets/images/52e5cee1f0632.jpg
-    image_title:
+    image_title: Bright Lights Big City
     image_description_markdown: >-
       *Bright Lights Big City***,** (collaboration with Wang
       Xiaoben)**&nbsp;***detail,* 2011
   - image_path: /uploads/left-room.jpg
-    image_title:
-    image_description_markdown:
+    image_title: Bright Lights Big City
+    image_description_markdown: '*Bright Lights Big City*, exhibited at Art+ Shanghai, 2011'
 _options:
   image_path:
     width: 1200
