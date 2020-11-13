@@ -1,7 +1,6 @@
 ---
 title: Painting
-description_markdown:
-homepage_description_markdown: >-
+description_markdown: >-
   The urban landscape is organic and living. Demolition of the old and
   construction of the new can be seen as improvement and progress but also as an
   eroding factor on history and collective memory. Older stories and memories
@@ -9,6 +8,7 @@ homepage_description_markdown: >-
   of that moment when something new is in progress but has not yet become a
   defined part of the official urban landscape. At night construction sites look
   almost beautiful when everything is quiet, floodlit and silhouetted.
+homepage_description_markdown:
 gallery_date: 2018-05-01 00:00:00
 frontpage: true
 permalink: /gallery/painting/
