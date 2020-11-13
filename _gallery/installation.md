@@ -18,7 +18,7 @@ permalink: /gallery/installation/
 archive: false
 display_title: true
 display_image: false
-main_image_path: /uploads/img-1055.jpg
+main_image_path: /uploads/img-1033.jpg
 main_image_caption:
 thumb_crop: false
 images:
