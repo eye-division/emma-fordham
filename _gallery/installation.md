@@ -64,6 +64,12 @@ images:
   - image_path: /uploads/left-room.jpg
     image_title:
     image_description_markdown:
+  - image_path: /uploads/-erd9809.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-8156.jpg
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
