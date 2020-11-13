@@ -13,22 +13,22 @@ main_image_caption:
 thumb_crop: false
 images:
   - image_path: /assets/images/592a3dc40490e.jpg
-    image_title:
+    image_title: Quarry I
     image_description_markdown: '*Quarry I,*&nbsp;acrylic and oil on canvas, 100 cm x 80 cm, 2016'
   - image_path: /assets/images/592a3d88f14ca.jpg
-    image_title:
+    image_title: Quarry II
     image_description_markdown: '*Quarry II,*&nbsp;acrylic and oil on canvas, 100 cm x 80 cm, 2016'
   - image_path: /assets/images/592a3d2a971cc.jpg
-    image_title:
+    image_title: Quarry III
     image_description_markdown: '*Quarry III*, oil and acrylic on canvas, 100 cm x 80 cm, 2016&nbsp;'
   - image_path: /assets/images/524136878cee5.jpg
-    image_title:
+    image_title: Site III
     image_description_markdown: '*Site III*, acrylic paint and spray paint on canvas, 50 cm x 50 cm, 2013'
   - image_path: /assets/images/524118eb91fae.jpg
-    image_title:
+    image_title: Site V
     image_description_markdown: '*Site V*, acrylic paint and spray paint on canvas, 50 cm x 50 cm, 2013'
   - image_path: /assets/images/52413615e1b28.jpg
-    image_title:
+    image_title: Site VI
     image_description_markdown: '*Site VI*, acrylic paint and spray paint on canvas, 50 cm x 50 cm, 2013'
   - image_path: /assets/images/50bae3460fcc0.jpg
     image_title:
