@@ -31,64 +31,64 @@ images:
     image_title: Site VI
     image_description_markdown: '*Site VI*, acrylic paint and spray paint on canvas, 50 cm x 50 cm, 2013'
   - image_path: /assets/images/50bae3460fcc0.jpg
-    image_title:
+    image_title: Crane I
     image_description_markdown: '*Crane I*, acrylic and spray paint on canvas, 16 cm x 21 cm, 2013'
   - image_path: /assets/images/5241251a01d5c.jpg
-    image_title:
+    image_title: Crane VII
     image_description_markdown: >-
       *Crane VII*, acrylic paint, paper cut out and spray paint on canvas, 16 cm
       x 21 cm, 2013
   - image_path: /assets/images/5241236b34c83.jpg
-    image_title:
+    image_title: Crane III
     image_description_markdown: >-
       *Crane III*, acrylic paint, paper cut out and spray paint on canvas, 16 cm
       x 21 cm, 2013
   - image_path: /assets/images/50bae45e1240e.jpg
-    image_title:
+    image_title: Crane IV
     image_description_markdown: >-
       *Crane IV*, acrylic paint, paper cut out and spray paint on canvas, 16 cm
       x 21 cm, 2013
   - image_path: /assets/images/50bae421a8138.jpg
-    image_title:
+    image_title: Crane V
     image_description_markdown: >-
       *Crane V*, acrylic paint, paper cut out and spray paint on canvas, 16 cm x
       21 cm, 2013
   - image_path: /assets/images/524124fc0b8ee.jpg
-    image_title:
+    image_title: Crane VI
     image_description_markdown: >-
       *Crane VI*, acrylic paint, paper cut out and spray paint on canvas, 16 cm
       x 21 cm, 2013
   - image_path: /assets/images/566cdecb4cb86.jpg
-    image_title:
+    image_title: Demolition I
     image_description_markdown: '*Demolition I*, acrylic paint, spray paint and stencils on linen, 2015'
   - image_path: /assets/images/566ce060a9495.jpg
-    image_title:
+    image_title: 'Demolition II,'
     image_description_markdown: >-
-      *Demolition II*, acrylic paint, spray paint and stencils on linen,
+      *Demolition II, a*crylic paint, spray paint and stencils on linen,
       2015&nbsp;
   - image_path: /assets/images/592a5a7c73323.jpg
-    image_title:
+    image_title: Night site
     image_description_markdown: >-
       Night site, acrylic, spray paint and paper stencils on canvas, 100 cm x
       100 cm, 2014
   - image_path: /assets/images/592a5acc47dd3.jpg
-    image_title:
+    image_title: Highrise Dawn
     image_description_markdown: >-
       *Highrise Dawn*, acrylic, spray paint and paper stencils on canvas, 100 cm
       x 100 cm, 2014
   - image_path: /assets/images/558397571cd13.jpg
-    image_title:
+    image_title: Cargo I
     image_description_markdown: 'Cargo I, oil on board'
   - image_path: /assets/images/558393297e685.jpg
-    image_title:
+    image_title: Cargo II
     image_description_markdown: 'Cargo II, oil on board,&nbsp;'
   - image_path: /assets/images/5583954ac0aa3.jpg
-    image_title:
+    image_title: Cosco
     image_description_markdown: >-
       Cosco, acrylic and spray paint on old glass window pane, 38 cm x 86 cm,
       2014&nbsp;
   - image_path: /assets/images/5583957249094.jpg
-    image_title:
+    image_title: Hyundai
     image_description_markdown: >-
       *Hyundai,*&nbsp;acrylic and spray paint on old glass window pane, 38 cm x
       86 cm, 2014&nbsp;
