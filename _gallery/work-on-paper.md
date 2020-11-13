@@ -13,30 +13,30 @@ main_image_caption:
 thumb_crop: false
 images:
   - image_path: /assets/images/50bad02bd7188.jpg
-    image_title:
+    image_title: Highway Scroll
     image_description_markdown: >-
       *Highway Scroll, a*crylic paint and pencil presented in a Chinese
       Calligraphy book, 404 cm x 25 cm (when unfolded), 2011
   - image_path: /assets/images/50bad00908849.jpg
-    image_title:
+    image_title: Highway Scroll
     image_description_markdown: >-
       *Highway Scroll, a*crylic paint and pencil presented in a Chinese
       Calligraphy book, 404 cm x 25 cm (when unfolded), 2011
   - image_path: /assets/images/50baed4dd03c8.jpg
-    image_title:
+    image_title: Highway Scroll
     image_description_markdown: >-
       *Highway Scroll, a*crylic paint and pencil presented in a Chinese
       Calligraphy book, 404 cm x 25 cm (when unfolded), 2011
   - image_path: /assets/images/55e7f90c3323c.jpg
-    image_title:
+    image_title: Cargo Artist Book
     image_description_markdown: >-
       *Cargo, Artist Book, a*crylic paint paintings in Chinese calligraphy book,
       2015
   - image_path: /assets/images/55e7f93a562fd.jpg
-    image_title: Cargo Artist Book by Emma Fordham
+    image_title: Cargo Artist Book
     image_description_markdown: 'Cargo, Artist Book, acrylic paint in Chinese calligraphy book, 2015'
   - image_path: /assets/images/55e7f96ea4ad2.jpg
-    image_title:
+    image_title: Cargo Artist Book
     image_description_markdown: '*Cargo, Artist Book*, acrylic paint in Chinese calligraphy book, 2015'
 _options:
   image_path:
