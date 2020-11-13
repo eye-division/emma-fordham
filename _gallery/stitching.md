@@ -42,7 +42,7 @@ images:
     image_title: Mount Stenhouse
     image_description_markdown:
   - image_path: /uploads/pb113052.JPG
-    image_title:
+    image_title: Mount Stenhouse
     image_description_markdown:
 _options:
   image_path:
