@@ -49,7 +49,7 @@ images:
   - image_path: /uploads/img-1971.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/img-8156.jpg
+  - image_path:
     image_title:
     image_description_markdown:
   - image_path: /assets/images/524a35e8cffd3.jpg
@@ -65,6 +65,15 @@ images:
       *Bright Lights Big City***,** (collaboration with Wang
       Xiaoben)**&nbsp;***detail,* 2011
   - image_path: /uploads/left-room.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-8169.JPG
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-1035.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-2951.jpg
     image_title:
     image_description_markdown:
 _options:
