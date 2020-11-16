@@ -22,6 +22,12 @@ images:
     image_description_markdown: >-
       *Topography II*, spraypaint, freehand embroidery and hand stitching on
       reinforced calico, 56 cm x 40 cm, 2019
+  - image_path: /uploads/img-20201116-083622.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-20201116-083600.jpg
+    image_title:
+    image_description_markdown:
   - image_path: /uploads/img-20201015-134112.jpg
     image_title: Mo Tat Wan I
     image_description_markdown: >-
@@ -32,23 +38,11 @@ images:
     image_description_markdown: >-
       *Mo Tat Wan II*, painted bonda-web, freehand embroidery and hand
       stitching, 25,5 cm x 25,5 cm, 2020
-  - image_path: /uploads/pb113055-2.jpg
-    image_title: Mount Stenhouse
-    image_description_markdown:
   - image_path: /uploads/pb113089-2.jpg
     image_title: Mount Stenhouse
     image_description_markdown:
   - image_path: /uploads/pb113103.JPG
     image_title: Mount Stenhouse
-    image_description_markdown:
-  - image_path: /uploads/pb113052.JPG
-    image_title: Mount Stenhouse
-    image_description_markdown:
-  - image_path: /uploads/img-20201116-083622.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /uploads/img-20201116-083600.jpg
-    image_title:
     image_description_markdown:
 _options:
   image_path:
