@@ -1,13 +1,6 @@
 ---
 title: Painting
-description_markdown: >-
-  The urban landscape is organic and living. Demolition of the old and
-  construction of the new can be seen as improvement and progress but also as an
-  eroding factor on history and collective memory. Older stories and memories
-  vanish as new narratives get told. Building sites embody the frenetic energy
-  of that moment when something new is in progress but has not yet become a
-  defined part of the official urban landscape. At night construction sites look
-  almost beautiful when everything is quiet, floodlit and silhouetted.
+description_markdown:
 homepage_description_markdown:
 gallery_date: 2018-05-01 00:00:00
 frontpage: true
@@ -67,12 +60,14 @@ images:
       x 21 cm, 2013
   - image_path: /assets/images/566cdecb4cb86.jpg
     image_title: Demolition I
-    image_description_markdown: '*Demolition I*, acrylic paint, spray paint and stencils on linen, 2015'
+    image_description_markdown: >-
+      *Demolition I*, acrylic paint, spray paint and stencils on linen, 60 cm x
+      60 cm, 2015
   - image_path: /assets/images/566ce060a9495.jpg
     image_title: 'Demolition II,'
     image_description_markdown: >-
-      *Demolition II, a*crylic paint, spray paint and stencils on linen,
-      2015&nbsp;
+      *Demolition II, a*crylic paint, spray paint and stencils on linen, 60 cm x
+      50 cm, 2015&nbsp;
   - image_path: /assets/images/592a5a7c73323.jpg
     image_title: Night site
     image_description_markdown: >-
@@ -85,10 +80,10 @@ images:
       x 100 cm, 2014
   - image_path: /assets/images/558397571cd13.jpg
     image_title: Cargo I
-    image_description_markdown: 'Cargo I, oil on board'
+    image_description_markdown: 'Cargo I, oil and rust on board, 190 cm x 90 cm, 2014'
   - image_path: /assets/images/558393297e685.jpg
     image_title: Cargo II
-    image_description_markdown: 'Cargo II, oil on board,&nbsp;'
+    image_description_markdown: 'Cargo II, oil and rust on board, 190 cm x 90 cm, 2014'
   - image_path: /assets/images/5583954ac0aa3.jpg
     image_title: Cosco
     image_description_markdown: >-
