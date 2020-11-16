@@ -62,7 +62,7 @@ images:
     image_title: Demolition I
     image_description_markdown: >-
       *Demolition I*, acrylic paint, spray paint and stencils on linen, 60 cm x
-      60 cm, 2015
+      50 cm, 2015
   - image_path: /assets/images/566ce060a9495.jpg
     image_title: 'Demolition II,'
     image_description_markdown: >-
