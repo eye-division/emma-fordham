@@ -26,12 +26,12 @@ images:
     image_title: Mo Tat Wan I
     image_description_markdown: >-
       *Mo Tat Wan I*, painted bodaweb, freehand embroidery and stitching on
-      calico, 2020
+      calico, 25,5 cm x 25,5 cm, 2020
   - image_path: /uploads/img-20201015-134206.jpg
     image_title: Mo Tat Wan II
     image_description_markdown: >-
       *Mo Tat Wan II*, painted bonda-web, freehand embroidery and hand
-      stitching, 2020
+      stitching, 25,5 cm x 25,5 cm, 2020
   - image_path: /uploads/pb113055-2.jpg
     image_title: Mount Stenhouse
     image_description_markdown:
@@ -43,6 +43,12 @@ images:
     image_description_markdown:
   - image_path: /uploads/pb113052.JPG
     image_title: Mount Stenhouse
+    image_description_markdown:
+  - image_path: /uploads/img-20201116-083622.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/img-20201116-083600.jpg
+    image_title:
     image_description_markdown:
 _options:
   image_path:
