@@ -22,7 +22,7 @@ url: "https://www.emmafordham.com"
 
 logo: "/assets/logo.png"
 show_logo: false
-email: a.ward@eyedivision.com
+email: fordhame@googlemail.com
 
 default_post_image: "/assets/images/default_post_image.jpg"
 default_gallery_image: "/assets/images/default_gallery_image.jpg"
@@ -155,8 +155,8 @@ social:
 
   - name: Instagram
     icon: icon-instagram
-    username: 'emma.s.e.fordham'
-    url: https://instagram.com/emma.s.e.fordham/
+    username: 'emmafordham_art'
+    url: https://instagram.com/emmafordham_art/
     desc: Follow me on Instagram
     share: false
 

@@ -7,6 +7,7 @@ frontpage: true
 permalink: /gallery/painting/
 display_title: true
 display_image: false
+order_number: 2
 archive: false
 main_image_path: /uploads/3.jpg
 main_image_caption:

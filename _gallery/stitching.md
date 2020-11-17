@@ -6,6 +6,7 @@ frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/stitching-and-embroidery/
 archive: false
+order_number: 1
 display_title: true
 display_image: false
 main_image_path: /uploads/newfinal-2.jpg

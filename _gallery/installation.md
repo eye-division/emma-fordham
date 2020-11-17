@@ -9,6 +9,7 @@ frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/installation/
 archive: false
+order_number: 4
 display_title: true
 display_image: false
 main_image_path: /uploads/img-1053-1.jpg
