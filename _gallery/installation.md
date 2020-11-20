@@ -69,20 +69,23 @@ images:
     image_title: South Horizons
     image_description_markdown: '*South Horizons,* detail'
   - image_path: /assets/images/524a35e8cffd3.jpg
-    image_title: Bright Lights Big City
+    image_title: Bright Lights Big City (with Wang Xiaoben)
     image_description_markdown: >-
       *Bright Lights Big City, (collaboration with Wang Xiaoben)&nbsp;*88
       rotating textile lanterns, steel frame, LED lights, canvas, acrylic paint,
       pencil, screen printing, beading, embroidery. Frame size 243 cm x 145 cm,
       individual lantern size 15 cm x 15 cm, 2011
   - image_path: /assets/images/52e5cee1f0632.jpg
-    image_title: Bright Lights Big City
+    image_title: Bright Lights Big City (with Wang Xiaoben)
     image_description_markdown: >-
       *Bright Lights Big City***,** (collaboration with Wang
       Xiaoben)**&nbsp;***detail,* 2011
   - image_path: /uploads/left-room.jpg
-    image_title: Bright Lights Big City
+    image_title: Bright Lights Big City (with Wang Xiaoben)
     image_description_markdown: '*Bright Lights Big City*, exhibited at Art+ Shanghai, 2011'
+  - image_path: /uploads/img-6154.jpg
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
