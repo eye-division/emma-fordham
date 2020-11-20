@@ -61,9 +61,12 @@ images:
       Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
       freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
       2020&nbsp;
-  - image_path: /uploads/pb113103-1.JPG
-    image_title:
-    image_description_markdown:
+  - image_path: /uploads/copy-of-pb113103-edited.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown: >-
+      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
+      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
+      2020&nbsp;
 _options:
   image_path:
     width: 1200
