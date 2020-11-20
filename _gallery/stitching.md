@@ -43,22 +43,16 @@ images:
     image_description_markdown: >-
       *Mo Tat Wan II*, painted bonda-web, freehand embroidery and hand
       stitching, 25,5 cm x 25,5 cm, 2020
-  - image_path: /uploads/pb113089-2.jpg
-    image_title: Mount Stenhouse
-    image_description_markdown:
-  - image_path: /uploads/pb113103.JPG
-    image_title: Mount Stenhouse
-    image_description_markdown:
   - image_path: /uploads/copy-of-img-2813-edited.jpg
     image_title:
     image_description_markdown:
   - image_path: /uploads/copy-of-img-2809-edited.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/pb113059.JPG
+  - image_path: /uploads/pb113088-2-edited.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/pb113088-2-edited.jpg
+  - image_path: /uploads/pb113095.JPG
     image_title:
     image_description_markdown:
 _options:
