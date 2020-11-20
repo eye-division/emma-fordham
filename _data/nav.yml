@@ -1,12 +1,14 @@
-- title: "Home"
-  href: "/"
-- title: "About"
-  href: "/about/"
-- title: "Galleries"
-  href: "/gallery/"
-- title: "Contact"
-  href: "/contact/"
-- title: "News"
-  href: "/news/"
-- title: "Typography"
-  href: "/typography/"
+- title: Home
+  href: /
+- title: Stitching and embroidery
+  href: /gallery/stitching-and-embroidery/
+- title: Painting
+  href: /gallery/painting/
+- title: Works on paper
+  href: /gallery/works-on-paper/
+- title: Installation
+  href: /gallery/installation/
+- title: About
+  href: /about
+- title: Contact
+  href: /contact/

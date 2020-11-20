@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-main_image_path:
+main_image_path: /uploads/img-20181016-193620.jpg
 main_image_caption:
 frontpage: false
 homepage_description_markdown:
@@ -16,13 +16,13 @@ _options:
   main_image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
@@ -31,9 +31,16 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
   frontpagetitle: Alternative title for home page use
 ---
-  <div class="editable">
-      <p> <strong>Tel:</strong> 111 1111</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id quaerat, tempore ut accusamus, dicta, soluta est unde officia iure dolorem asperiores voluptate quis molestiae. Dolores, porro commodi est ipsum assumenda?</p>
+
+<div class="editable">
+    <h2>Studio address:</h2>
+    <p>Room K, 25F, Kingley Industrial Building</p>
+    <p>33 Yip Kan Street, Wong Chuk Hang</p>
+    <p>Hong Kong</p>
+    <p>&nbsp;</p>
+    <p><strong>Email:</strong> <a href="mailto:fordhame@gmail.com">fordhame@gmail.com</a></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
   </div>
 
 {% if page.show_form %}
@@ -42,15 +49,15 @@ _comments:
 
     <fieldset>
       <input type="text" name="_gotcha" style="display:none" />
-      <input type="hidden" name="_to" value="support@eyedivision.com">
-      <input type="hidden" name="_subject" value="Web form">
+      <input type="hidden" name="_to" value="{{ site.email }}" />
+      <input type="hidden" name="_subject" value="Web form" />
       <p>
       <label for="name">Name:</label>
-      <input type="text" name="name">
+      <input type="text" name="name" />
       </p>
       <p>
       <label for="_replyto">Email:</label>
-      <input type="email" name="_replyto">
+      <input type="email" name="_replyto" />
       </p>
       <p>
       <label>Message</label>
@@ -61,7 +68,7 @@ _comments:
       {% endif %}
 
       <p>
-        <input type="submit" value="Send message">
+        <input type="submit" value="Send message" />
       </p>
 
     </fieldset>

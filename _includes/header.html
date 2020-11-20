@@ -29,12 +29,9 @@
 
         {% endfor %}
 
-      </ul>
+        {% if site.show_social_top %}
 
-    {% if site.show_social_top %}
-
-      <ul class="navigation--social-menu">
-        {% for social in site.social %}
+         {% for social in site.social %}
 
           {% if social.url != null %}
 
@@ -47,9 +44,10 @@
 
         {% endfor %}
 
-      </ul>
+        {% endif %}
 
-    {% endif %}
+
+      </ul>
 
     </nav>
   </div>
