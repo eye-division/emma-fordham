@@ -12,7 +12,7 @@ archive: false
 order_number: 4
 display_title: true
 display_image: false
-main_image_path: /uploads/img-1053-1.jpg
+main_image_path: /uploads/img-1049-1.jpg
 main_image_caption:
 thumb_crop: false
 images:
