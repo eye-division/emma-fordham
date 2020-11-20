@@ -83,9 +83,6 @@ images:
   - image_path: /uploads/left-room.jpg
     image_title: Bright Lights Big City (with Wang Xiaoben)
     image_description_markdown: '*Bright Lights Big City*, exhibited at Art+ Shanghai, 2011'
-  - image_path: /uploads/img-6154.jpg
-    image_title:
-    image_description_markdown:
 _options:
   image_path:
     width: 1200
