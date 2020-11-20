@@ -83,6 +83,13 @@ images:
   - image_path: /uploads/left-room.jpg
     image_title: Bright Lights Big City (with Wang Xiaoben)
     image_description_markdown: '*Bright Lights Big City*, exhibited at Art+ Shanghai, 2011'
+  - image_path: /uploads/moraemma---big-city-bright-lights.JPG
+    image_title: Bright Lights Big City (with Wang Xiaoben)
+    image_description_markdown: >-
+      *Bright Lights Big City, (collaboration with Wang Xiaoben)&nbsp;*88
+      rotating textile lanterns, steel frame, LED lights, canvas, acrylic paint,
+      pencil, screen printing, beading, embroidery. Frame size 243 cm x 145 cm,
+      individual lantern size 15 cm x 15 cm, 2011
 _options:
   image_path:
     width: 1200
