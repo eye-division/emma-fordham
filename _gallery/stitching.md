@@ -11,7 +11,7 @@ display_title: true
 display_image: false
 main_image_path: /uploads/newfinal-2.jpg
 main_image_caption:
-thumb_crop: false
+thumb_crop: true
 images:
   - image_path: /uploads/newfinal 1.jpeg
     image_title: Topography I
