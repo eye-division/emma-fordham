@@ -1,5 +1,5 @@
 ---
-title: Stitching & Embroidery
+title: Stitching & embroidery
 description_markdown:
 homepage_description_markdown:
 frontpage: true
@@ -23,16 +23,6 @@ images:
     image_description_markdown: >-
       *Topography II*, spraypaint, freehand embroidery and hand stitching on
       reinforced calico, 56 cm x 40 cm, 2019
-  - image_path: /uploads/img-20201116-083622.jpg
-    image_title: Trace I
-    image_description_markdown: >-
-      *Trace I*, acrylic paint and freehand embroidery on canvas, 30,5 cm x 25,5
-      cm, 2016
-  - image_path: /uploads/img-20201116-083600.jpg
-    image_title: Trace II
-    image_description_markdown: >-
-      *Trace II*, acrylic paint and freehand embroidery on canvas, 30,5 cm x
-      25,5 cm, 2016
   - image_path: /uploads/img-20201015-134112.jpg
     image_title: Mo Tat Wan I
     image_description_markdown: >-
