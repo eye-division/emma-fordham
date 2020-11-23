@@ -16,6 +16,12 @@
     .gallery--front {
         padding: 0 1em 1em;
     }
+    .gallery--list {
+
+        @supports (display: grid) {
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+        }
+    }
 
 }
 
