@@ -9,7 +9,7 @@ archive: false
 order_number: 1
 display_title: true
 display_image: false
-main_image_path:
+main_image_path: /uploads/website-1.jpg
 main_image_caption:
 thumb_crop: true
 images:
