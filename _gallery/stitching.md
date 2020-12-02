@@ -9,20 +9,30 @@ archive: false
 order_number: 1
 display_title: true
 display_image: false
-main_image_path: /uploads/newfinal-2.jpg
+main_image_path: /uploads/website-1.jpg
 main_image_caption:
 thumb_crop: true
 images:
-  - image_path: /uploads/newfinal 1.jpeg
-    image_title: Topography I
+  - image_path: /uploads/website.jpg
+    image_title:
     image_description_markdown: >-
       *Topography I*, spraypaint, freehand embroidery and hand stitching on
       reinforced calico, 56 cm x 48 cm, 2019
-  - image_path: /uploads/newfinal 2.jpg
-    image_title: Topography II
+  - image_path: /uploads/new-edit.jpg
+    image_title:
     image_description_markdown: >-
       *Topography II*, spraypaint, freehand embroidery and hand stitching on
       reinforced calico, 56 cm x 40 cm, 2019
+  - image_path: /uploads/4-tracing-i.jpg
+    image_title:
+    image_description_markdown: >-
+      *Tracing I*, fabric dye, organza, freehand embroidery and hand stitching
+      on calico, 40 cm x 40 cm, 2020
+  - image_path: /uploads/5-tracing-ii.jpg
+    image_title:
+    image_description_markdown: >-
+      *Tracing II*, fabric dye, organza, freehand embroidery and hand stitching
+      on calico, 40 cm x 40 cm, 2020
   - image_path: /uploads/img-20201015-134112.jpg
     image_title: Mo Tat Wan I
     image_description_markdown: >-
