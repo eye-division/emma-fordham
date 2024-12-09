@@ -79,12 +79,16 @@ images:
     image_description_markdown: >-
       *Luk Chau I*, spraypaint, freehand embroidery and hand stitching on
       calico, 75 cm x  65 cm, 2020
-  - image_path: /uploads/20241209-085333.jpg
+  - image_path: /uploads/20241209-085333-1.jpg
     image_title: Luk Chau II
-    image_description_markdown: ''
-  - image_path: /uploads/mount-stenhouse.jpg
+    image_description_markdown: >-
+      *Luk Chau II*, spraypaint, freehand embroidery and hand stitching on
+      calico, 75 cm x 65 cm, 2020
+  - image_path: /uploads/mount-stenhouse-1.jpg
     image_title: Mount Stenhouse
-    image_description_markdown: ''
+    image_description_markdown: >-
+      *Mount Stenhouse,* spraypaint, freehand embroidery and hand stitching on
+      calico, 135 cm x 117 cm, 2021
 _options:
   image_path:
     width: 1200
