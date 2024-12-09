@@ -1,7 +1,7 @@
 ---
 title: Stitching & embroidery
-description_markdown:
-homepage_description_markdown:
+description_markdown: ''
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/stitching-and-embroidery/
@@ -57,16 +57,6 @@ images:
       Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
       freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
       2020&nbsp;
-  - image_path: /uploads/img-20201015-134112.jpg
-    image_title: Mo Tat Wan I
-    image_description_markdown: >-
-      *Mo Tat Wan I*, painted bodaweb, freehand embroidery and stitching on
-      calico, 25,5 cm x 25,5 cm, 2020
-  - image_path: /uploads/img-20201015-134206.jpg
-    image_title: Mo Tat Wan II
-    image_description_markdown: >-
-      *Mo Tat Wan II*, painted bonda-web, freehand embroidery and hand
-      stitching, 25,5 cm x 25,5 cm, 2020
 _options:
   image_path:
     width: 1200
@@ -90,4 +80,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
