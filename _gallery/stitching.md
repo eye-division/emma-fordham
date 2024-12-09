@@ -1,5 +1,5 @@
 ---
-title: ARTWORK
+title: CONTEMPORARY EMBROIDERY
 description_markdown: ''
 homepage_description_markdown: ''
 frontpage: true
