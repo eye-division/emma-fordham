@@ -74,11 +74,14 @@ images:
       Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
       freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
       2020&nbsp;
-  - image_path: ''
-    image_title: ''
+  - image_path: /uploads/20241209-085538.jpg
+    image_title: Luk Chau I
     image_description_markdown: ''
-  - image_path: ''
-    image_title: ''
+  - image_path: /uploads/20241209-085333.jpg
+    image_title: Luk Chau II
+    image_description_markdown: ''
+  - image_path: /uploads/mount-stenhouse.jpg
+    image_title: Mount Stenhouse
     image_description_markdown: ''
 _options:
   image_path:
