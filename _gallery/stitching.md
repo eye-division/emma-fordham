@@ -1,7 +1,24 @@
 ---
-title: Stitching & embroidery
-description_markdown:
-homepage_description_markdown:
+title: Embroidery
+description_markdown: >-
+  Growing up in the north of Sweden Emma has always felt an affinity to nature
+  and landscape. Her artwork examines this connection and our relationships with
+  the environment we inhabit. Her latest works, multi-layered embroidered
+  topographical maps, continue to explore these themes.
+
+
+  When starting a new piece, Emma gathers plants and flowers at the site to
+  create a painted background. She then meticulously traces and transfers
+  details from various maps onto the canvas using freehand embroidery
+  techniques. Finally, she adds definition by hand-stitching geographical and
+  man-made features into the artwork. Through this process each work becomes a
+  unique representation and reimagining of a specific location. These
+  embroidered maps, with their painstaking attention to detail, transform the
+  mundane and functional map into a slow meditation on landscape and memory.
+
+
+  <br>
+homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/stitching-and-embroidery/
@@ -57,16 +74,21 @@ images:
       Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
       freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
       2020&nbsp;
-  - image_path: /uploads/img-20201015-134112.jpg
-    image_title: Mo Tat Wan I
+  - image_path: /uploads/20241209-085538-1.jpg
+    image_title: Luk Chau I
     image_description_markdown: >-
-      *Mo Tat Wan I*, painted bodaweb, freehand embroidery and stitching on
-      calico, 25,5 cm x 25,5 cm, 2020
-  - image_path: /uploads/img-20201015-134206.jpg
-    image_title: Mo Tat Wan II
+      *Luk Chau I*, spraypaint, freehand embroidery and hand stitching on
+      calico, 75 cm x  65 cm, 2020
+  - image_path: /uploads/20241209-085333-1.jpg
+    image_title: Luk Chau II
     image_description_markdown: >-
-      *Mo Tat Wan II*, painted bonda-web, freehand embroidery and hand
-      stitching, 25,5 cm x 25,5 cm, 2020
+      *Luk Chau II*, spraypaint, freehand embroidery and hand stitching on
+      calico, 75 cm x 65 cm, 2020
+  - image_path: /uploads/mount-stenhouse-1.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown: >-
+      *Mount Stenhouse,* spraypaint, freehand embroidery and hand stitching on
+      calico, 135 cm x 117 cm, 2021
 _options:
   image_path:
     width: 1200
@@ -90,4 +112,3 @@ _comments:
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
 ---
-
