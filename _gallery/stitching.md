@@ -1,6 +1,23 @@
 ---
-title: Stitching & embroidery
-description_markdown: ''
+title: Embroidery
+description_markdown: >-
+  Growing up in the north of Sweden Emma has always felt an affinity to nature
+  and landscape. Her artwork examines this connection and our relationships with
+  the environment we inhabit. Her latest works, multi-layered embroidered
+  topographical maps, continue to explore these themes.
+
+
+  When starting a new piece, Emma gathers plants and flowers at the site to
+  create a painted background. She then meticulously traces and transfers
+  details from various maps onto the canvas using freehand embroidery
+  techniques. Finally, she adds definition by hand-stitching geographical and
+  man-made features into the artwork. Through this process each work becomes a
+  unique representation and reimagining of a specific location. These
+  embroidered maps, with their painstaking attention to detail, transform the
+  mundane and functional map into a slow meditation on landscape and memory.
+
+
+  <br>
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
@@ -57,6 +74,12 @@ images:
       Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
       freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
       2020&nbsp;
+  - image_path: ''
+    image_title: ''
+    image_description_markdown: ''
+  - image_path: ''
+    image_title: ''
+    image_description_markdown: ''
 _options:
   image_path:
     width: 1200
