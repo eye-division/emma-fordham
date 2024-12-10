@@ -69,7 +69,7 @@ images:
     image_description_markdown: >-
       *Tracing II*, fabric dye, organza, freehand embroidery and hand stitching
       on calico, 40 cm x 40 cm, 2020
-  - image_path: /uploads/20220207-170420edit.jpg
+  - image_path: /uploads/20220207-170420.jpg
     image_title: Yueng Shue Wan
     image_description_markdown: 60 cm x 70 cm
   - image_path: /uploads/img-20210710-093923edit.jpg
