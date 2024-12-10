@@ -72,6 +72,9 @@ images:
   - image_path: /uploads/20220207-170420edit.jpg
     image_title: Yueng Shue Wan
     image_description_markdown: 60 cm x 70 cm
+  - image_path: /uploads/img-20210710-093923edit.jpg
+    image_title: Pok Fu Lam
+    image_description_markdown: 120 cm x 100 cm
 _options:
   image_path:
     width: 1200
