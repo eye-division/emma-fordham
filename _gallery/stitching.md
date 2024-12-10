@@ -9,22 +9,20 @@ archive: false
 order_number: 1
 display_title: true
 display_image: false
-main_image_path: /uploads/website-1.jpg
+main_image_path: /uploads/mount-stenhouse-2.jpg
 main_image_caption:
 thumb_crop: true
 images:
   - image_path: /uploads/copy-of-img-2813-edited.jpg
     image_title: Mount Stenhouse
     image_description_markdown: >-
-      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
-      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
-      2020&nbsp;
+      Mount Stenhouse, spray-paint, freehand embroidery, handstitching on
+      calico, 135 cm x 115 cm (stretched), 2020&nbsp;
   - image_path: /uploads/pb113088-2-edited.jpg
     image_title: Mount Stenhouse
     image_description_markdown: >-
-      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
-      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
-      2020&nbsp;
+      Mount Stenhouse, spray-paint, freehand embroidery, handstitching on
+      calico, 135 cm x 115 cm (stretched), 2020&nbsp;
   - image_path: /uploads/mount-stenhouse-1.jpg
     image_title: Mount Stenhouse
     image_description_markdown: >-
@@ -33,9 +31,8 @@ images:
   - image_path: /uploads/copy-of-pb113103-edited.jpg
     image_title: Mount Stenhouse
     image_description_markdown: >-
-      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
-      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
-      2020&nbsp;
+      Mount Stenhouse, spray-paint, freehand embroidery, handstitching on
+      calico, 135 cm x 115 cm (stretched), 2020&nbsp;
   - image_path: /uploads/20241209-085333-1.jpg
     image_title: Luk Chau II
     image_description_markdown: >-
@@ -72,6 +69,21 @@ images:
     image_description_markdown: >-
       *Tracing II*, fabric dye, organza, freehand embroidery and hand stitching
       on calico, 40 cm x 40 cm, 2020
+  - image_path: /uploads/20220207-170420edit.jpg
+    image_title: Yueng Shue Wan
+    image_description_markdown: 60 cm x 70 cm
+  - image_path: /uploads/img-20210710-093923edit.jpg
+    image_title: Pok Fu Lam
+    image_description_markdown: 120 cm x 100 cm
+  - image_path: /uploads/img-20210424-163228-edit.jpg
+    image_title: Annapurna
+    image_description_markdown: 79 cm x 67 cm
+  - image_path: /uploads/20220529-075806-2-edit.jpg
+    image_title: Mo Tat Wan
+    image_description_markdown: 55 cm x 55 cm
+  - image_path: ''
+    image_title: ''
+    image_description_markdown: ''
 _options:
   image_path:
     width: 1200
