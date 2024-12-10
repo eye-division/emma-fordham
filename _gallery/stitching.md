@@ -1,23 +1,6 @@
 ---
-title: Embroidery
-description_markdown: >-
-  Growing up in the north of Sweden Emma has always felt an affinity to nature
-  and landscape. Her artwork examines this connection and our relationships with
-  the environment we inhabit. Her latest works, multi-layered embroidered
-  topographical maps, continue to explore these themes.
-
-
-  When starting a new piece, Emma gathers plants and flowers at the site to
-  create a painted background. She then meticulously traces and transfers
-  details from various maps onto the canvas using freehand embroidery
-  techniques. Finally, she adds definition by hand-stitching geographical and
-  man-made features into the artwork. Through this process each work becomes a
-  unique representation and reimagining of a specific location. These
-  embroidered maps, with their painstaking attention to detail, transform the
-  mundane and functional map into a slow meditation on landscape and memory.
-
-
-  <br>
+title: CONTEMPORARY EMBROIDERY
+description_markdown: ''
 homepage_description_markdown: ''
 frontpage: true
 gallery_date: 2016-05-01 00:00:00
@@ -30,6 +13,45 @@ main_image_path: /uploads/website-1.jpg
 main_image_caption:
 thumb_crop: true
 images:
+  - image_path: /uploads/copy-of-img-2813-edited.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown: >-
+      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
+      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
+      2020&nbsp;
+  - image_path: /uploads/pb113088-2-edited.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown: >-
+      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
+      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
+      2020&nbsp;
+  - image_path: /uploads/mount-stenhouse-1.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown: >-
+      *Mount Stenhouse,* spraypaint, freehand embroidery and hand stitching on
+      calico, 135 cm x 117 cm, 2021
+  - image_path: /uploads/copy-of-pb113103-edited.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown: >-
+      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
+      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
+      2020&nbsp;
+  - image_path: /uploads/20241209-085333-1.jpg
+    image_title: Luk Chau II
+    image_description_markdown: >-
+      *Luk Chau II*, spraypaint, freehand embroidery and hand stitching on
+      calico, 75 cm x 65 cm, 2020
+  - image_path: /uploads/20241209-085538-1.jpg
+    image_title: Luk Chau I
+    image_description_markdown: >-
+      *Luk Chau I*, spraypaint, freehand embroidery and hand stitching on
+      calico, 75 cm x  65 cm, 2020
+  - image_path: /uploads/copy-of-img-2809-edited.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown: >-
+      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
+      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
+      2020&nbsp;
   - image_path: /uploads/website.jpg
     image_title: Topography I
     image_description_markdown: >-
@@ -50,45 +72,6 @@ images:
     image_description_markdown: >-
       *Tracing II*, fabric dye, organza, freehand embroidery and hand stitching
       on calico, 40 cm x 40 cm, 2020
-  - image_path: /uploads/copy-of-img-2813-edited.jpg
-    image_title: Mount Stenhouse
-    image_description_markdown: >-
-      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
-      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
-      2020&nbsp;
-  - image_path: /uploads/pb113088-2-edited.jpg
-    image_title: Mount Stenhouse
-    image_description_markdown: >-
-      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
-      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
-      2020&nbsp;
-  - image_path: /uploads/copy-of-img-2809-edited.jpg
-    image_title: Mount Stenhouse
-    image_description_markdown: >-
-      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
-      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
-      2020&nbsp;
-  - image_path: /uploads/copy-of-pb113103-edited.jpg
-    image_title: Mount Stenhouse
-    image_description_markdown: >-
-      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
-      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
-      2020&nbsp;
-  - image_path: /uploads/20241209-085538-1.jpg
-    image_title: Luk Chau I
-    image_description_markdown: >-
-      *Luk Chau I*, spraypaint, freehand embroidery and hand stitching on
-      calico, 75 cm x  65 cm, 2020
-  - image_path: /uploads/20241209-085333-1.jpg
-    image_title: Luk Chau II
-    image_description_markdown: >-
-      *Luk Chau II*, spraypaint, freehand embroidery and hand stitching on
-      calico, 75 cm x 65 cm, 2020
-  - image_path: /uploads/mount-stenhouse-1.jpg
-    image_title: Mount Stenhouse
-    image_description_markdown: >-
-      *Mount Stenhouse,* spraypaint, freehand embroidery and hand stitching on
-      calico, 135 cm x 117 cm, 2021
 _options:
   image_path:
     width: 1200
