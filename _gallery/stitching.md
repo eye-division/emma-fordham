@@ -78,9 +78,9 @@ images:
   - image_path: /uploads/img-20210424-163228-edit.jpg
     image_title: Annapurna
     image_description_markdown: 79 cm x 67 cm
-  - image_path: ''
-    image_title: ''
-    image_description_markdown: ''
+  - image_path: /uploads/20220529-075806-2-edit.jpg
+    image_title: Mo Tat Wan
+    image_description_markdown: 55 cm x 55 cm
 _options:
   image_path:
     width: 1200
