@@ -81,6 +81,9 @@ images:
   - image_path: /uploads/20220529-075806-2-edit.jpg
     image_title: Mo Tat Wan
     image_description_markdown: 55 cm x 55 cm
+  - image_path: ''
+    image_title: ''
+    image_description_markdown: ''
 _options:
   image_path:
     width: 1200
