@@ -23,32 +23,32 @@ images:
     image_description_markdown: >-
       Mount Stenhouse, spray-paint, freehand embroidery, handstitching on
       calico, 135 cm x 115 cm (stretched), 2020&nbsp;
-  - image_path: /uploads/mount-stenhouse-1.jpg
-    image_title: Mount Stenhouse
-    image_description_markdown: >-
-      *Mount Stenhouse,* spraypaint, freehand embroidery and hand stitching on
-      calico, 135 cm x 117 cm, 2021
   - image_path: /uploads/copy-of-pb113103-edited.jpg
     image_title: Mount Stenhouse
     image_description_markdown: >-
       Mount Stenhouse, spray-paint, freehand embroidery, handstitching on
       calico, 135 cm x 115 cm (stretched), 2020&nbsp;
-  - image_path: /uploads/20241209-085333-1.jpg
-    image_title: Luk Chau II
-    image_description_markdown: >-
-      *Luk Chau II*, spraypaint, freehand embroidery and hand stitching on
-      calico, 75 cm x 65 cm, 2020
-  - image_path: /uploads/20241209-085538-1.jpg
-    image_title: Luk Chau I
-    image_description_markdown: >-
-      *Luk Chau I*, spraypaint, freehand embroidery and hand stitching on
-      calico, 75 cm x  65 cm, 2020
   - image_path: /uploads/copy-of-img-2809-edited.jpg
     image_title: Mount Stenhouse
     image_description_markdown: >-
       Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
       freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
       2020&nbsp;
+  - image_path: /uploads/mount-stenhouse-1.jpg
+    image_title: Mount Stenhouse
+    image_description_markdown: >-
+      *Mount Stenhouse,* spraypaint, freehand embroidery and hand stitching on
+      calico, 135 cm x 117 cm, 2021
+  - image_path: /uploads/20241209-085538-1.jpg
+    image_title: Luk Chau I
+    image_description_markdown: >-
+      *Luk Chau I*, spraypaint, freehand embroidery and hand stitching on
+      calico, 75 cm x  65 cm, 2020
+  - image_path: /uploads/20241209-085333-1.jpg
+    image_title: Luk Chau II
+    image_description_markdown: >-
+      *Luk Chau II*, spraypaint, freehand embroidery and hand stitching on
+      calico, 75 cm x 65 cm, 2020
   - image_path: /uploads/website.jpg
     image_title: Topography I
     image_description_markdown: >-
@@ -69,7 +69,7 @@ images:
     image_description_markdown: >-
       *Tracing II*, fabric dye, organza, freehand embroidery and hand stitching
       on calico, 40 cm x 40 cm, 2020
-  - image_path: /uploads/20220207-170420edit.jpg
+  - image_path: /uploads/20220207-170420.jpg
     image_title: Yueng Shue Wan
     image_description_markdown: 60 cm x 70 cm
   - image_path: /uploads/img-20210710-093923edit.jpg
@@ -78,7 +78,7 @@ images:
   - image_path: /uploads/img-20210424-163228-edit.jpg
     image_title: Annapurna
     image_description_markdown: 79 cm x 67 cm
-  - image_path: /uploads/20220529-075806-2-edit.jpg
+  - image_path: /uploads/20220529-075806-2-edit-1.jpg
     image_title: Mo Tat Wan
     image_description_markdown: 55 cm x 55 cm
   - image_path: ''
