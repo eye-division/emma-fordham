@@ -75,6 +75,9 @@ images:
   - image_path: /uploads/img-20210710-093923edit.jpg
     image_title: Pok Fu Lam
     image_description_markdown: 120 cm x 100 cm
+  - image_path: ''
+    image_title: ''
+    image_description_markdown: ''
 _options:
   image_path:
     width: 1200
