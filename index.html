@@ -1,6 +1,6 @@
 ---
 layout: home
-main_image_path: /uploads/img-20210316-114459.jpg
+main_image_path:
 main_image_caption: >-
   Growing up in the north of  Sweden Emma has always felt an affinity to nature
   and landscape. Her artwork examines this connection and our relationships with
@@ -15,8 +15,6 @@ main_image_caption: >-
   painstaking attention to detail, transform the mundane and functional map into
   a slow meditation on landscape and memory.
 show_carousel: false
-show_blog: false
-posts_number: 1
 carousel:
   - image: /assets/images/advert-customers.jpg
     caption: A test caption
@@ -24,6 +22,78 @@ carousel:
   - image:
     caption:
     alink:
+images:
+- image_path: /uploads/copy-of-img-2813-edited.jpg
+  image_title: Mount Stenhouse
+  image_description_markdown: >-
+    Mount Stenhouse, spray-paint, freehand embroidery, handstitching on
+    calico, 135 cm x 115 cm (stretched), 2020&nbsp;
+- image_path: /uploads/pb113088-2-edited.jpg
+  image_title: Mount Stenhouse
+  image_description_markdown: >-
+    Mount Stenhouse, spray-paint, freehand embroidery, handstitching on
+    calico, 135 cm x 115 cm (stretched), 2020&nbsp;
+- image_path: /uploads/copy-of-pb113103-edited.jpg
+  image_title: Mount Stenhouse
+  image_description_markdown: >-
+    Mount Stenhouse, spray-paint, freehand embroidery, handstitching on
+    calico, 135 cm x 115 cm (stretched), 2020&nbsp;
+- image_path: /uploads/copy-of-img-2809-edited.jpg
+  image_title: Mount Stenhouse
+  image_description_markdown: >-
+    Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
+    freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
+    2020&nbsp;
+- image_path: /uploads/mount-stenhouse-1.jpg
+  image_title: Mount Stenhouse
+  image_description_markdown: >-
+    *Mount Stenhouse,* spraypaint, freehand embroidery and hand stitching on
+    calico, 135 cm x 117 cm, 2021
+- image_path: /uploads/20241209-085538-1.jpg
+  image_title: Luk Chau I
+  image_description_markdown: >-
+    *Luk Chau I*, spraypaint, freehand embroidery and hand stitching on
+    calico, 75 cm x  65 cm, 2020
+- image_path: /uploads/20241209-085333-1.jpg
+  image_title: Luk Chau II
+  image_description_markdown: >-
+    *Luk Chau II*, spraypaint, freehand embroidery and hand stitching on
+    calico, 75 cm x 65 cm, 2020
+- image_path: /uploads/website.jpg
+  image_title: Topography I
+  image_description_markdown: >-
+    *Topography I*, spraypaint, freehand embroidery and hand stitching on
+    reinforced calico, 56 cm x 48 cm, 2019
+- image_path: /uploads/new-edit.jpg
+  image_title: Topography II
+  image_description_markdown: >-
+    *Topography II*, spraypaint, freehand embroidery and hand stitching on
+    reinforced calico, 56 cm x 40 cm, 2019
+- image_path: /uploads/4-tracing-i.jpg
+  image_title: Tracing I
+  image_description_markdown: >-
+    *Tracing I*, fabric dye, organza, freehand embroidery and hand stitching
+    on calico, 40 cm x 40 cm, 2020
+- image_path: /uploads/5-tracing-ii.jpg
+  image_title: Tracing II
+  image_description_markdown: >-
+    *Tracing II*, fabric dye, organza, freehand embroidery and hand stitching
+    on calico, 40 cm x 40 cm, 2020
+- image_path: /uploads/20220207-170420.jpg
+  image_title: Yueng Shue Wan
+  image_description_markdown: 60 cm x 70 cm
+- image_path: /uploads/img-20210710-093923edit.jpg
+  image_title: Pok Fu Lam
+  image_description_markdown: 120 cm x 100 cm
+- image_path: /uploads/img-20210424-163228-edit.jpg
+  image_title: Annapurna
+  image_description_markdown: 79 cm x 67 cm
+- image_path: /uploads/20220529-075806-2-edit-1.jpg
+  image_title: Mo Tat Wan
+  image_description_markdown: 55 cm x 55 cm
+- image_path: ''
+  image_title: ''
+  image_description_markdown: ''
 _options:
   layout:
     hidden: true
@@ -56,7 +126,7 @@ _comments:
     <figcaption>{{ alt_text }}</figcaption>
     </figure>
 {% endif %}
-
+<article>
 {% if page.show_carousel and page.carousel %}
   <section class="slideshow">
     <h2>This is a demo slideshow</h2>
@@ -81,90 +151,54 @@ _comments:
     </section>
 {% endif %}
 
+<div class="editable">
+
+  <h2 class="text-center">CONTEMPORARY EMBROIDERY</h2>
+
+</div>
+
+{% if page.images[0].image_path %}
+
+    <section class="gallery--list">
+
+      {% for thisimage in page.images %}
+
+        {% assign image = site.default_gallery_image %}
+        {% if thisimage.image_path %}
+          {% assign image = thisimage.image_path %}
+        {% endif %}
+
+          <div class="gallery--box">
+
+            <a href="{% include imgpath.html src=image max-w=1280 %}" class="gallery--link" data-lightbox="gallery" data-title="{{ thisimage.image_title }} - {{ thisimage.image_description_markdown | markdownify }}">
+
+              {% if page.thumb_crop %}
+
+                <!-- cropped square images -->
+                {% include img.html src=image width=200 height=200 fit=crop alt=thisimage.image_title %}
+                <!-- end cropped square -->
+
+              {% else %}
+
+                <!-- full format images -->
+                {% include img.html src=image width=600 fit=clip alt=thisimage.image_title %}
+                 <!-- end format images -->
+               {% endif %}
+
+               {% if page.display_title %}
+                  <figcaption class="gallery--caption">{{ thisimage.image_title }}</figcaption>
+              {% endif %}
+
+            </a>
 
 
-<!-- Galleries -->
-<section class="gallery--list">
-{% assign galleries = site.gallery | sort: "order_number" %}
-{% for gallery in galleries %}
 
-  {% if gallery.frontpage %}
-
-   <div class="gallery--box">
-
-      <a href="{{ gallery.url }}" class="gallery--link">
-
-        {% include img.html src=gallery.main_image_path width=400 height=400 fit=crop alt=gallery.title %}
-        <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
-      </a>
-
-   </div>
+          </div>
 
 
-  {% endif %}
-
-{% endfor %}
-
-</section>
-
-<!-- Regular page promotions on front page -->
-{% assign pagelist = site.pages | sort: "order_number" %}
-  {% for section in pagelist %}
-
-    {% if section.frontpage %}
-
-      {% if section.main_image_path %}
-        <section class="gallery--cover has--cover" style="background-image: url({{ section.main_image_path }});">
-      {% else %}
-        <section class="gallery--cover has--cover" style="background-image: url('https://placekitten.com/g/1200/300');">
-      {% endif %}
-
-      <a href="{{ section.url | prepend: site.baseurl }}">
-
-        <div class="scrim has--cover">
-          <article class="gallery--front">
-            <header class="gallery--header">
-              <h2 class="cover--title mb0">{{ section.frontpagetitle }}</h2>
-            </header>
-            {% if section.homepage_description_markdown %}
-              {{ section.homepage_description_markdown | markdownify }}
-              <span class="post--readmore">Read more <span> <svg class="icon icon--post"><use xlink:href="#icon-double_angle_right" /></svg></span>
-
-            {% endif %}
-        </span>
-      </article>
-      </div>
-      </a>
-    </section>
-
-  {% endif %}
-
-{% endfor %}
-
-{% if page.show_blog %}
-
-    <section class="blog blog--home">
-
-      <div class="editable">
-        <h2>Latest news</h2>
-      </div>
-
-      <ul class="posts--list">
-
-        {% for post in site.posts limit:page.posts_number %}
-
-         {% unless post.categories contains 'Archive' %}
-
-          {% include post_excerpt.html %}
-
-        {% endunless %}
-
-        {% endfor %}
-
-      </ul>
-      <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
+      {% endfor %}
 
     </section>
-{% endif %}
 
-</section>
+    {% endif %}
+    </article>
