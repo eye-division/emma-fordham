@@ -28,12 +28,6 @@ images:
     image_description_markdown: >-
       Mount Stenhouse, spray-paint, freehand embroidery, handstitching on
       calico, 135 cm x 115 cm (stretched), 2020&nbsp;
-  - image_path: /uploads/copy-of-img-2809-edited.jpg
-    image_title: Mount Stenhouse
-    image_description_markdown: >-
-      Mount Stenhouse, Tapestry worn by Carla on Mount Stenhouse, spray-paint,
-      freehand embroidery, handstitching on calico, 135 cm x 115 cm (stretched),
-      2020&nbsp;
   - image_path: /uploads/mount-stenhouse-1.jpg
     image_title: Mount Stenhouse
     image_description_markdown: >-
@@ -84,6 +78,21 @@ images:
   - image_path: ''
     image_title: ''
     image_description_markdown: ''
+  - image_path: /uploads/20250103-125422.jpg
+    image_title: Coral (Turquoise)
+    image_description_markdown: >-
+      Fabric manipulation and hand embroidery on stretched linen canvas.  75 cm
+      x 65 cm, 2024
+  - image_path: /uploads/20250103-125318copy.jpg
+    image_title: Coral (Amber)
+    image_description_markdown: >-
+      Fabric manipulation and hand embroidery on stretched linen canvas. 70 cm x
+      80 cm, 2024
+  - image_path: /uploads/thinking-of-a-place.jpg
+    image_title: Thinking of a Place
+    image_description_markdown: >-
+      Appliqué and hand embroidery on stretched cotton canvas. 69 cm x 90 cm,
+      2024
 _options:
   image_path:
     width: 1200
