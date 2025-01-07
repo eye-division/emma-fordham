@@ -93,6 +93,9 @@ images:
     image_description_markdown: >-
       Appliqué and hand embroidery on stretched cotton canvas. 69 cm x 90 cm,
       2024
+  - image_path: /uploads/tai-wan.jpg
+    image_title: Tai Wan
+    image_description_markdown: ''
 _options:
   image_path:
     width: 1200
