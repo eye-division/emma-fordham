@@ -16,12 +16,6 @@
         }
       });
     });
-
-    // Lightbox2 options
-    lightbox.option({
-      'wrapAround': true
-    });
-
     // fitvid on embed
     $('.media').fitVids();
 
@@ -34,6 +28,17 @@
       animationSpeed: 600,
       touch: true
     });
+
+    lightGallery(document.getElementById('lightgallery'), {
+        selector: '.gallery--link',
+        plugins: [lgZoom],
+        licenseKey: '5FB39630-44A6-45E6-86C1-349104E6C6E0',
+        speed: 500,
+        download: false,
+        mode: 'lg-fade',
+    });
+
+
 
   }); // end doc ready
 

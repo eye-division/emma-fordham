@@ -46,6 +46,12 @@ collections_config:
 collection_groups: null
 _enabled_editors: null
 _inputs:
+  number_of_cols:
+    type: choice
+    options:
+      values:
+        - 3
+        - 4
   categories:
     type: multiselect
     options:

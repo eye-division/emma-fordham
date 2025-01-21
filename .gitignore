@@ -11,6 +11,8 @@ Gemfile.lock
 .bundle/
 vendor/
 nbproject
-
+node_modules/
+package.json
+package-lock.json
 # Need to allow our SASS vendor folder
 !_sass/vendor/

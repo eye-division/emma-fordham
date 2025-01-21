@@ -70,6 +70,12 @@
         }
     }
 }
+.gallery--list--4 {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+.gallery--list--3 {
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
 .gallery--front {
     padding: 0 1em 2em;
     background: rgba(255, 255, 255, 0.9);
@@ -86,6 +92,7 @@
     margin: 1em;
     text-align: center;
 }
+
 
 .gallery--caption {
     font-style: normal;
