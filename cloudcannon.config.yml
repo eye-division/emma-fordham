@@ -50,8 +50,9 @@ _inputs:
     type: choice
     options:
       values:
-        - 3
-        - 4
+        - two
+        - three
+        - four
   categories:
     type: multiselect
     options:
