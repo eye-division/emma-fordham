@@ -14,6 +14,7 @@ main_image_caption: >-
   reimagining of a specific location. These embroidered maps, with their
   painstaking attention to detail, transform the mundane and functional map into
   a slow meditation on landscape and memory.
+show_main_image: false
 show_carousel: false
 carousel:
   - image: /assets/images/advert-customers.jpg
@@ -22,15 +23,13 @@ carousel:
   - image:
     caption:
     alink:
+number_of_cols: four
 images:
   - image_path: /uploads/copy-of-img-2813-edited.jpeg
     image_title: Mount Stenhouse
     image_description_markdown: >-
       Freehand and hand embroidery on calico, (photographed on Mount Stenhouse,
-      Lamma Island, Hong Kong) 135 cm x 115 cm, 2021&nbsp;
-
-
-      &nbsp;
+      Lamma Island, Hong Kong) 135 cm x 115 cm, 2021&nbsp; &nbsp;
   - image_path: /uploads/pb113088-2-edited.jpg
     image_title: Mount Stenhouse
     image_description_markdown: >-
@@ -124,6 +123,7 @@ _options:
   layout:
     hidden: true
   main_image_path:
+    label: Cover image
     width: 1200
     height: 1200
     resize_style: contain
@@ -133,17 +133,18 @@ _options:
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
+  main_image_caption:
+    label: Caption
+    comment: Alt text for cover image
 _comments:
-  main_image_path: Cover image
-  main_image_caption: Alt text for cover image
   carousel: Edit the slideshow
-  show_carouse: Show the slideshow
+  show_carousel: Show the slideshow
   show_blog: Show your latest posts on the homepage
   posts_number: How many posts to show
   alink: Optional web link from the slide
   caption: optional caption
 ---
-{% if page.main_image_path %}
+{% if page.main_image_path and page.show_main_image %}
   <!-- parallax picture please -->
     <figure>
     {% assign alt_text = page.title %}
@@ -185,7 +186,7 @@ _comments:
 
 {% if page.images[0].image_path %}
 
-    <section class="gallery--list">
+    <section class="gallery--list gallery--list--{{ page.number_of_cols }}" id="lightgallery">
 
       {% for thisimage in page.images %}
 
@@ -196,7 +197,7 @@ _comments:
 
           <div class="gallery--box">
 
-            <a href="{% include imgpath.html src=image max-w=1280 %}" class="gallery--link" data-lightbox="gallery" data-title="{{ thisimage.image_title }} - {{ thisimage.image_description_markdown | markdownify }}">
+            <a href="{% include imgpath.html src=image max-w=1280 %}" data-src="{{ image }}" class="gallery--link" data-title="{{ thisimage.image_title }} - {{ thisimage.image_description_markdown | markdownify }}">
 
               {% if page.thumb_crop %}
 

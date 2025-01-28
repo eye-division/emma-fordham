@@ -46,6 +46,15 @@ collections_config:
 collection_groups: null
 _enabled_editors: null
 _inputs:
+  number_of_cols:
+    type: choice
+    label: Number of columns
+    comment: Maximum number of images displayed in a row
+    options:
+      values:
+        - two
+        - three
+        - four
   categories:
     type: multiselect
     options:
