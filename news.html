@@ -1,10 +1,13 @@
 ---
 layout: page
-title: New posts
+title: News
+permalink: /news/
 main_image_path:
 main_image_caption:
-permalink: /posts/
-posts_number: 4
+frontpage: false
+homepage_description_markdown: ''
+frontpagetitle:
+show_form: true
 _options:
   layout:
     hidden: true
@@ -15,26 +18,21 @@ _options:
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
+  title: Page title
   main_image_path: Image used to represent your page
+  show_form: Do you want to show a contact form?
+  frontpage: Show this page on the homepage
   homepage_description_markdown: Text used on homepage if shown
   frontpagetitle: Alternative title for home page use
-  images: Add and edit images here
-  posts_number: Number of posts to show on this page
 ---
 <div class="editable">
-    <p>THE BRODERERS" EXHIBITION - FEBRUARY 25th - MARCH 2nd</p>
+
+<p>Edit your news page here</p>
+
   </div>
-<section>
-
-  <ul class="posts--list">
-
-    {% for post in site.posts limit: posts_number %}
-
-      {% include post_excerpt.html %}
-
-    {% endfor %}
-
-  </ul>
-
-</section>
