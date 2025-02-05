@@ -38,6 +38,7 @@
         mode: 'lg-fade',
         mobileSettings: {
             showCloseIcon: true,
+            controls: false,
             download: false
         }
     });
