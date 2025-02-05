@@ -36,6 +36,10 @@
         speed: 500,
         download: false,
         mode: 'lg-fade',
+        mobileSettings: {
+            showCloseIcon: true,
+            download: false
+        }
     });
 
 

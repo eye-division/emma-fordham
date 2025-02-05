@@ -182,6 +182,7 @@ _comments:
         {% if thisimage.image_path %}
           {% assign image = thisimage.image_path %}
         {% endif %}
+        {% capture imagecaption %}{{ thisimage.image_title }} - {{ thisimage.image_description_markdown | markdownify }}{% endcapture %}
 
           <div class="gallery--box">
 
@@ -190,19 +191,15 @@ _comments:
               {% if page.thumb_crop %}
 
                 <!-- cropped square images -->
-                {% include img.html src=image width=200 height=200 fit=crop alt=thisimage.image_title %}
+                {% include img.html src=image width=200 height=200 fit=crop alt=imagecaption %}
                 <!-- end cropped square -->
 
               {% else %}
 
                 <!-- full format images -->
-                {% include img.html src=image width=600 fit=clip alt=thisimage.image_title %}
+                {% include img.html src=image width=600 fit=clip alt=imagecaption %}
                  <!-- end format images -->
                {% endif %}
-
-               {% if page.display_title %}
-                  <figcaption class="gallery--caption">{{ thisimage.image_title }}</figcaption>
-              {% endif %}
 
             </a>
 
