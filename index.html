@@ -188,18 +188,10 @@ _comments:
 
             <a href="{% include imgpath.html src=image max-w=1280 %}" data-src="{{ image }}" class="gallery--link" data-title="{{ thisimage.image_title }} - {{ thisimage.image_description_markdown | markdownify }}">
 
-              {% if page.thumb_crop %}
 
-                <!-- cropped square images -->
-                {% include img.html src=image width=200 height=200 fit=crop alt=imagecaption %}
-                <!-- end cropped square -->
-
-              {% else %}
-
-                <!-- full format images -->
-                {% include img.html src=image width=600 fit=clip alt=imagecaption %}
-                 <!-- end format images -->
-               {% endif %}
+            <!-- full format images -->
+            {% include img.html src=image width=600 alt=imagecaption %}
+              <!-- end format images -->
 
             </a>
 
