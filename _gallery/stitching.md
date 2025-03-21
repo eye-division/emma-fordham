@@ -43,6 +43,11 @@ images:
     image_description_markdown: >-
       *Luk Chau II*, spraypaint, freehand embroidery and hand stitching on
       calico, 75 cm x 65 cm, 2020
+  - image_path: /uploads/20250306-163021.jpg
+    image_title: Mells
+    image_description_markdown: >-
+      Spray paint, freehand and hand embroidery on stretched calico, 80 cm x 100
+      cm, 2025
   - image_path: /uploads/website.jpg
     image_title: Topography I
     image_description_markdown: >-
@@ -96,11 +101,6 @@ images:
   - image_path: /uploads/tai-wan.jpg
     image_title: Tai Wan
     image_description_markdown: ''
-  - image_path: /uploads/20250306-163021.jpg
-    image_title: Mells
-    image_description_markdown: >-
-      Spray paint, freehand and hand embroidery on stretched calico, 80 cm x 100
-      cm, 2025
 _options:
   image_path:
     width: 1200
