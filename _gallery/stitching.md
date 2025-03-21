@@ -96,6 +96,11 @@ images:
   - image_path: /uploads/tai-wan.jpg
     image_title: Tai Wan
     image_description_markdown: ''
+  - image_path: /uploads/20250306-163021.jpg
+    image_title: Mells
+    image_description_markdown: >-
+      Spray paint, freehand and hand embroidery on stretched calico, 80 cm x 100
+      cm, 2025
 _options:
   image_path:
     width: 1200
