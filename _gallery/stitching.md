@@ -83,6 +83,9 @@ images:
   - image_path: ''
     image_title: ''
     image_description_markdown: ''
+  - image_path: ''
+    image_title: ''
+    image_description_markdown: ''
   - image_path: /uploads/20250103-125422.jpg
     image_title: Coral (Turquoise)
     image_description_markdown: >-
@@ -98,7 +101,7 @@ images:
     image_description_markdown: >-
       Appliqué and hand embroidery on stretched cotton canvas. 69 cm x 90 cm,
       2024
-  - image_path: /uploads/tai-wan.jpg
+  - image_path:
     image_title: Tai Wan
     image_description_markdown: ''
 _options:
